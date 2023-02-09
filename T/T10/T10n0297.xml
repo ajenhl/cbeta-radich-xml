@@ -243,7 +243,14 @@
 <lb n="0881c07" ed="T"/><l>此真善逝子，<caesura/>讚揚所獲福，</l>
 <lb n="0881c08" ed="T"/><l>以此諸有情，<caesura/>如彼成讚器。</l></lg><anchor xml:id="end0881011"/></cb:div>
 <lb n="0881c09" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>普賢菩薩行願讚</title></cb:jhead></cb:juan>
-<lb n="0881c10" ed="T"/><cb:div type="w"><p xml:id="pT10p0881c1001"><anchor xml:id="nkr_note_orig_0881012" n="0881012"/>速疾滿普賢行願陀羅尼曰：</p>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0881c10" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3"><p xml:id="pT10p0881c1001"><anchor xml:id="nkr_note_orig_0881012" n="0881012"/>速疾滿普賢行願陀羅尼曰：</p>
 <lb n="0881c11" ed="T"/><p cb:type="dharani" xml:id="pT10p0881c1101"><anchor xml:id="nkr_note_orig_0881013" n="0881013"/><anchor xml:id="nkr_note_mod_0881013" n="0881013"/><anchor xml:id="beg0881013" n="0881013"/>襄<anchor xml:id="end0881013"/>麼悉底哩也<note place="inline">四合</note>地尾<note place="inline">二合</note>迦<note place="inline">引</note>南
 <note place="inline"><anchor xml:id="nkr_note_orig_0881014" n="0881014"/><anchor xml:id="nkr_note_mod_0881014" n="0881014"/><anchor xml:id="beg0881014" n="0881014"/>二<anchor xml:id="end0881014"/></note>
 怛佗<note place="inline">引</note>孽
@@ -252,12 +259,7 @@
 <lb n="0881c14" ed="T"/><p xml:id="pT10p0881c1401">每日誦普賢菩薩行願讚後，即誦此真言，纔
 <lb n="0881c15" ed="T"/>誦一遍，普賢行願悉皆圓滿，<anchor xml:id="nkr_note_orig_0881015" n="0881015"/><anchor xml:id="nkr_note_mod_0881015" n="0881015"/><anchor xml:id="beg0881015" n="0881015"/>三<anchor xml:id="end0881015"/>摩地人，速得
 <lb n="0881c16" ed="T"/>三昧現前，福德智慧，二種莊嚴，獲堅固法，速
-<lb n="0881c17" ed="T"/>疾成就。</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0881c17" ed="T"/>疾成就。</p></rdg></app>
 <app from="#beg0880002" to="#end0880002"><lem wit="#wit.orig">讚</lem><rdg resp="#resp2" wit="#wit1 #wit2">讚<note place="inline">六十二頌頌別四句每句七字除題目外計有一千七百三十六字</note></rdg></app>
 <app from="#beg0880004" to="#end0880004"><lem wit="#wit.orig">大供</lem><rdg resp="#resp2" wit="#wit3 #wit1 #wit2">供養</rdg></app>
 <app from="#beg0880005" to="#end0880005"><lem wit="#wit.orig">今</lem><rdg resp="#resp2" wit="#wit3 #wit1 #wit2">皆</rdg></app>

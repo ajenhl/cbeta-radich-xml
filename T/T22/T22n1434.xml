@@ -110,8 +110,9 @@
 <lb n="1065b14" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="001" type="卷"></cb:mulu><cb:jhead><title>四分比丘尼羯磨<anchor xml:id="nkr_note_orig_1065010" n="1065010"/><anchor xml:id="nkr_note_mod_1065010" n="1065010"/><anchor xml:id="beg1065010" n="1065010"/>法<anchor xml:id="end1065010"/></title></cb:jhead></cb:juan>
 <lb n="1065b15" ed="T"/>
 <lb n="1065b16" ed="T"/><byline cb:type="Translator"><anchor xml:id="nkr_note_orig_1065011" n="1065011"/><anchor xml:id="nkr_note_mod_1065011" n="1065011"/><anchor xml:id="beg1065011" n="1065011"/>宋<anchor xml:id="end1065011"/><anchor xml:id="nkr_note_orig_1065012" n="1065012"/><anchor xml:id="nkr_note_mod_1065012" n="1065012"/><anchor xml:id="beg1065012" n="1065012"/>罽賓三藏<anchor xml:id="end1065012"/>求那跋摩譯</byline>
-<lb n="1065b17" ed="T"/><cb:mulu level="1" n="1" type="其他">1 結界法</cb:mulu><head>結界法第一<anchor xml:id="nkr_note_orig_1065013" n="1065013"/><anchor xml:id="nkr_note_mod_1065013" n="1065013"/><anchor xml:id="beg1065013" n="1065013"/><note place="inline">其諸結界羯磨作<anchor xml:id="nkr_note_orig_1065014" n="1065014"/><anchor xml:id="nkr_note_mod_1065014" n="1065014"/><anchor xml:id="beg1065014" n="1065014"/>法<anchor xml:id="end1065014"/>與上大僧同，唯稱尼大<anchor xml:id="nkr_note_add_1065b1701" n="1065b1701"/><anchor xml:id="beg1065b1701" n="1065b1701"/>姊<anchor xml:id="end1065b1701"/>為異。</note><anchor xml:id="end1065013"/><anchor xml:id="nkr_note_rest_1065013" n="1065013"/></head></cb:div>
+<lb n="1065b17" ed="T"/><cb:mulu level="1" n="1" type="其他">1 結界法</cb:mulu><head>結界法第一<anchor xml:id="nkr_note_orig_1065013" n="1065013"/><anchor xml:id="nkr_note_mod_1065013" n="1065013"/><anchor xml:id="beg1065013" n="1065013"/><note place="inline">其諸結界羯磨作<anchor xml:id="nkr_note_orig_1065014" n="1065014"/><anchor xml:id="nkr_note_mod_1065014" n="1065014"/><anchor xml:id="beg1065014" n="1065014"/>法<anchor xml:id="end1065014"/>與上大僧同，唯稱尼大<anchor xml:id="nkr_note_add_1065b1701" n="1065b1701"/><anchor xml:id="beg1065b1701" n="1065b1701"/>姊<anchor xml:id="end1065b1701"/>為異。</note></head></cb:div>
 <lb n="1065b18" ed="T"/><cb:div type="other"><cb:mulu level="1" n="2" type="其他">2 受戒法</cb:mulu><head>受戒法第二</head>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (no corresponding text base text and witnesses not named in rdg element) --><anchor xml:id="Radich_app_1_end"/><anchor xml:id="end1065013"/><anchor xml:id="nkr_note_rest_1065013" n="1065013"/>
 <lb n="1065b19" ed="T"/><p xml:id="pT22p1065b1901">比丘尼乞畜眾羯磨文<note place="inline">若比丘尼欲度人者，當往比丘尼僧中，偏露右肩，脫革屣，
 <lb n="1065b20" ed="T"/>禮僧足已，右膝著地，合掌，乞畜眾羯磨。作如是<anchor xml:id="nkr_note_orig_1065015" n="1065015"/><anchor xml:id="nkr_note_mod_1065015" n="1065015"/><anchor xml:id="beg1065015" n="1065015"/>白<anchor xml:id="end1065015"/>：</note></p>
 <lb n="1065b21" ed="T"/><p xml:id="pT22p1065b2101">大姊僧聽！我比丘尼某甲，今從僧乞度人<anchor xml:id="nkr_note_orig_1065016" n="1065016"/><anchor xml:id="nkr_note_mod_1065016" n="1065016"/><anchor xml:id="beg1065016" n="1065016"/>授<anchor xml:id="end1065016"/>
@@ -604,7 +605,13 @@
 <lb n="1071a05" ed="T"/>譯」。二本但云：女人出家法。六亂也。故知
 <lb n="1071a06" ed="T"/>二本是乃後代無稽之人臆度亂鈔耳，不
 <lb n="1071a07" ed="T"/>可依用，今故遆之<anchor xml:id="end1070035"/>。</p></cb:div>
-<lb n="1071a08" ed="T"/><cb:div type="w"><p xml:id="pT22p1071a0801"><anchor type="circle"/><anchor xml:id="nkr_note_orig_1071001" n="1071001"/>不來諸比丘尼說欲及清淨？<note place="inline">除結界無受欲法。若自恣時
+<!-- original content here now handled by the rdg element in Radich_app_1  <lb n="1071a08" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3 #wit4"><p xml:id="pT22p1071a0801"><anchor type="circle"/><anchor xml:id="nkr_note_orig_1071001" n="1071001"/>不來諸比丘尼說欲及清淨？<note place="inline">除結界無受欲法。若自恣時
 <lb n="1071a09" ed="T"/>應言：</note>說欲及自恣。<note place="inline">復應白僧言：</note>大姊僧聽！僧今何所
 <lb n="1071a10" ed="T"/>作為？<note place="inline">僧中一人應隨前事答：</note>某甲羯磨。<note place="inline">但結界法，二界不得相接，應留中間，亦
 <lb n="1071a11" ed="T"/>不得隔駛流水結，除常有橋梁。若欲大界內安戒場者，先豎戒場四方相，於外下至相去一肘，豎大界
@@ -705,12 +712,7 @@
 <lb n="1072a17" ed="T"/>彼住處，結別說戒，同一利養，為守護住處故
 <lb n="1072a18" ed="T"/>者默然，誰不忍者說。僧已忍於此、彼住處，
 <lb n="1072a19" ed="T"/>結別說戒，同一利養，為守護住處故竟。僧
-<lb n="1072a20" ed="T"/>忍，默然故，是事如是持。</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="1072a20" ed="T"/>忍，默然故，是事如是持。</p></rdg></app>
 <app from="#beg1065010" to="#end1065010"><lem wit="#wit.orig">法</lem><rdg resp="#resp2" wit="#wit1 #wit2">法一卷七</rdg><rdg resp="#resp2" wit="#wit3">法一卷</rdg></app>
 <app from="#beg1065011" to="#end1065011"><lem wit="#wit.orig">宋</lem><rdg resp="#resp2" wit="#wit3 #wit4">劉宋</rdg></app>
 <app from="#beg1065012" to="#end1065012"><lem wit="#wit.orig">罽賓三藏</lem><rdg resp="#resp2" wit="#wit5">元嘉年</rdg></app>

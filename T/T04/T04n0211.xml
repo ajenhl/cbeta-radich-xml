@@ -2131,7 +2131,7 @@
 <lb n="0594c02" ed="T"/><l>得生人道難，<caesura/>生壽亦難得，</l>
 <lb n="0594c03" ed="T"/><l>世間有佛難，<caesura/>佛法難得聞。」</l></lg>
 <lb n="0594c04" ed="T"/><p xml:id="pT04p0594c0401">佛說此偈時，空中五百天人，聞偈歡<anchor xml:id="nkr_note_orig_0594038" n="0594038"/><anchor xml:id="nkr_note_mod_0594038" n="0594038"/><anchor xml:id="beg0594038" n="0594038"/>忻<anchor xml:id="end0594038"/>，皆得
-<lb n="0594c05" ed="T"/>須陀洹道。<anchor xml:id="nkr_note_orig_0594039" n="0594039"/><anchor xml:id="nkr_note_mod_0594039" n="0594039"/></p></cb:div>
+<lb n="0594c05" ed="T"/>須陀洹道。<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (no corresponding text base text and witnesses not named in rdg element) --><anchor xml:id="Radich_app_1_end"/><anchor xml:id="nkr_note_orig_0594039" n="0594039"/><anchor xml:id="nkr_note_mod_0594039" n="0594039"/></p></cb:div>
 <lb n="0594c06" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="24" type="品">23 安寧品</cb:mulu><head><title><anchor xml:id="fxT04p0594c01"/>法句譬喻經</title>安寧品第二十三</head>
 <lb n="0594c07" ed="T"/><p xml:id="pT04p0594c0701">昔<anchor xml:id="nkr_note_orig_0594040" n="0594040"/><anchor xml:id="nkr_note_mod_0594040" n="0594040"/><anchor xml:id="beg0594040" n="0594040"/>佛在<anchor xml:id="end0594040"/>羅閱祇。東南<anchor xml:id="nkr_note_orig_0594041" n="0594041"/><anchor xml:id="nkr_note_mod_0594041" n="0594041"/><anchor xml:id="beg0594041" n="0594041"/>三<anchor xml:id="end0594041"/>百里，有山民村五百
 <lb n="0594c08" ed="T"/>餘家，為人剛強難以<anchor xml:id="nkr_note_orig_0594042" n="0594042"/><anchor xml:id="nkr_note_mod_0594042" n="0594042"/><anchor xml:id="beg0594042" n="0594042"/>導<anchor xml:id="end0594042"/>化，宿世福願應蒙開
@@ -2717,43 +2717,7 @@
 <lb n="0601b13" ed="T"/>數<anchor xml:id="end0601022"/>隨止觀，在於佛前逮得應真。諸天來聽聞
 <lb n="0601b14" ed="T"/>皆歡喜，散華供養稱善無量。</p></cb:div>
 <lb n="0601b15" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title><anchor type="circle"/><anchor xml:id="nkr_note_orig_0601023" n="0601023"/><anchor xml:id="nkr_note_mod_0601023" n="0601023"/>法句譬喻經</title>卷第三</cb:jhead></cb:juan>
-<lb n="0601b16" ed="T"/><cb:div type="w"><p xml:id="pT04p0601b1601"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0601024" n="0601024"/><anchor xml:id="nkr_note_mod_0601024" n="0601024"/>昔羅閱祇南四千里有國，奉事梵志數千
-<lb n="0601b17" ed="T"/>人。時國大旱三年不雨，禱祠諸神無所不
-<lb n="0601b18" ed="T"/>遍，王問梵志問其所由，諸梵志言：「吾等當
-<lb n="0601b19" ed="T"/>齋戒訖竟，當遣人與梵天相聞，問其災異。」
-<lb n="0601b20" ed="T"/>王言：「大善！齋戒所乏願見告示。」諸梵志言：
-<lb n="0601b21" ed="T"/>「當得二十車薪酥蜜膏油華香旛蓋，金銀祭
-<lb n="0601b22" ed="T"/>器盡用須之。」王即辦送，出至城外，去城七
-<lb n="0601b23" ed="T"/>里平廣之地積薪如山，共相<anchor xml:id="nkr_note_orig_0601025" n="0601025"/><anchor xml:id="nkr_note_mod_0601025" n="0601025"/><anchor xml:id="beg0601025" n="0601025"/>推<anchor xml:id="end0601025"/>獎其有不
-<lb n="0601b24" ed="T"/>惜身者終生梵天，選得七人，當就火燒遣
-<lb n="0601b25" ed="T"/>至梵天。七人受祭呪願訖，踧使上薪，從下
-<lb n="0601b26" ed="T"/>放火當燒殺之。烟焰烔然熱氣直至，七人
-<lb n="0601b27" ed="T"/>惶懼左右求救無有救者，舉聲曰：「三界之
-<lb n="0601b28" ed="T"/>中寧有大慈愍念我厄者，願受自歸。」佛遙
-<lb n="0601b29" ed="T"/>知之，尋聲往救，在虛空<anchor xml:id="nkr_note_orig_0601026" n="0601026"/><anchor xml:id="nkr_note_mod_0601026" n="0601026"/><anchor xml:id="beg0601026" n="0601026"/>中<anchor xml:id="end0601026"/>顯現相好，七人
-<pb n="0601c" ed="T" xml:id="T04.0211.0601c"/>
-<lb n="0601c01" ed="T"/>見佛，悲喜跳踊：「唯願自歸救我痛熱。」於是
-<lb n="0601c02" ed="T"/>世尊即說偈言：</p>
-<lb n="0601c03" ed="T"/><lg type="regular" xml:id="lgT04p0601c0301" style="margin-left:1em;text-indent:-1em"><l>「或多自歸，<caesura/>山川樹神，<caesura/>厝立圖像，</l>
-<lb n="0601c04" ed="T"/><l>禱祠求福。<caesura/>自歸如是，<caesura/>非吉非上，</l>
-<lb n="0601c05" ed="T"/><l>彼不能來，<caesura/>度汝眾苦。<caesura/>如有自歸，</l>
-<lb n="0601c06" ed="T"/><l>佛法僧眾，<caesura/>道德四諦，<caesura/>必見正慧。</l>
-<lb n="0601c07" ed="T"/><l>生死極苦，<caesura/>從諦得度，<caesura/>度世八難，</l>
-<lb n="0601c08" ed="T"/><l>斯除眾苦。<caesura/>自歸三尊，<caesura/>最吉最上，</l>
-<lb n="0601c09" ed="T"/><l>唯獨有是，<caesura/>度一切苦。」</l></lg>
-<lb n="0601c10" ed="T"/><p xml:id="pT04p0601c1001">佛說渴訖火<anchor xml:id="nkr_note_orig_0601027" n="0601027"/><anchor xml:id="nkr_note_mod_0601027" n="0601027"/><anchor xml:id="beg0601027" n="0601027"/>聲尋<anchor xml:id="end0601027"/>滅，七人獲安心喜無量。
-<lb n="0601c11" ed="T"/>梵志國人莫不驚悚，仰瞻世尊光相赫奕
-<lb n="0601c12" ed="T"/>分身散體，東沒西現存亡自由，身出水火
-<lb n="0601c13" ed="T"/>五色晃昱，眾人見之五體歸命。於是七人
-<lb n="0601c14" ed="T"/>從薪下出，悲喜交集而說偈言：</p>
-<lb n="0601c15" ed="T"/><lg type="regular" xml:id="lgT04p0601c1501" style="margin-left:1em;text-indent:-1em"><l>「見聖人快，<caesura/>得依附快，<caesura/>得離愚人，</l>
-<lb n="0601c16" ed="T"/><l>為善獨快。<caesura/>守正見快，<caesura/>互說法快，</l>
-<lb n="0601c17" ed="T"/><l>與世無諍，<caesura/>戒具常快。<caesura/>使賢居快，</l>
-<lb n="0601c18" ed="T"/><l>如親親會，<caesura/>近仁智者，<caesura/>多聞高遠。」</l></lg>
-<lb n="0601c19" ed="T"/><p xml:id="pT04p0601c1901">於是七人說此偈已，及諸梵志願為弟子。
-<lb n="0601c20" ed="T"/>佛即<anchor xml:id="nkr_note_orig_0601028" n="0601028"/><anchor xml:id="nkr_note_mod_0601028" n="0601028"/><anchor xml:id="beg0601028" n="0601028"/>受<anchor xml:id="end0601028"/>之，皆為沙門，得羅漢道。國王臣民
-<lb n="0601c21" ed="T"/>咸各修道，天尋大雨國豐民寧，道化興隆
-<lb n="0601c22" ed="T"/>莫不樂聞。</p></cb:div>
+<!-- original content here now handled by the rdg element in Radich_app_1<lb n="0601b16" ed="T"/><cb:div type="w"><p xml:id="pT04p0601b1601"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0601024" n="0601024"/></p></cb:div> -->
 <milestone n="4" unit="juan"/>
 <lb n="0601c23" ed="T"/>
 <lb n="0601c24" ed="T"/>
@@ -3420,6 +3384,43 @@
 <cb:div type="apparatus">
 <head>校註</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3 #wit4"><anchor xml:id="nkr_note_mod_0601024" n="0601024"/><p>昔羅閱祇南四千里有國，奉事梵志數千
+<lb n="0601b17" ed="T"/>人。時國大旱三年不雨，禱祠諸神無所不
+<lb n="0601b18" ed="T"/>遍，王問梵志問其所由，諸梵志言：「吾等當
+<lb n="0601b19" ed="T"/>齋戒訖竟，當遣人與梵天相聞，問其災異。」
+<lb n="0601b20" ed="T"/>王言：「大善！齋戒所乏願見告示。」諸梵志言：
+<lb n="0601b21" ed="T"/>「當得二十車薪酥蜜膏油華香旛蓋，金銀祭
+<lb n="0601b22" ed="T"/>器盡用須之。」王即辦送，出至城外，去城七
+<lb n="0601b23" ed="T"/>里平廣之地積薪如山，共相<anchor xml:id="nkr_note_orig_0601025" n="0601025"/><anchor xml:id="nkr_note_mod_0601025" n="0601025"/><anchor xml:id="beg0601025" n="0601025"/>推<anchor xml:id="end0601025"/>獎其有不
+<lb n="0601b24" ed="T"/>惜身者終生梵天，選得七人，當就火燒遣
+<lb n="0601b25" ed="T"/>至梵天。七人受祭呪願訖，踧使上薪，從下
+<lb n="0601b26" ed="T"/>放火當燒殺之。烟焰烔然熱氣直至，七人
+<lb n="0601b27" ed="T"/>惶懼左右求救無有救者，舉聲曰：「三界之
+<lb n="0601b28" ed="T"/>中寧有大慈愍念我厄者，願受自歸。」佛遙
+<lb n="0601b29" ed="T"/>知之，尋聲往救，在虛空<anchor xml:id="nkr_note_orig_0601026" n="0601026"/><anchor xml:id="nkr_note_mod_0601026" n="0601026"/><anchor xml:id="beg0601026" n="0601026"/>中<anchor xml:id="end0601026"/>顯現相好，七人
+<pb n="0601c" ed="T" xml:id="T04.0211.0601c"/>
+<lb n="0601c01" ed="T"/>見佛，悲喜跳踊：「唯願自歸救我痛熱。」於是
+<lb n="0601c02" ed="T"/>世尊即說偈言：</p>
+<lb n="0601c03" ed="T"/><lg type="regular" xml:id="lgT04p0601c0301" style="margin-left:1em;text-indent:-1em"><l>「或多自歸，<caesura/>山川樹神，<caesura/>厝立圖像，</l>
+<lb n="0601c04" ed="T"/><l>禱祠求福。<caesura/>自歸如是，<caesura/>非吉非上，</l>
+<lb n="0601c05" ed="T"/><l>彼不能來，<caesura/>度汝眾苦。<caesura/>如有自歸，</l>
+<lb n="0601c06" ed="T"/><l>佛法僧眾，<caesura/>道德四諦，<caesura/>必見正慧。</l>
+<lb n="0601c07" ed="T"/><l>生死極苦，<caesura/>從諦得度，<caesura/>度世八難，</l>
+<lb n="0601c08" ed="T"/><l>斯除眾苦。<caesura/>自歸三尊，<caesura/>最吉最上，</l>
+<lb n="0601c09" ed="T"/><l>唯獨有是，<caesura/>度一切苦。」</l></lg>
+<lb n="0601c10" ed="T"/><p xml:id="pT04p0601c1001">佛說渴訖火<anchor xml:id="nkr_note_orig_0601027" n="0601027"/><anchor xml:id="nkr_note_mod_0601027" n="0601027"/><anchor xml:id="beg0601027" n="0601027"/>聲尋<anchor xml:id="end0601027"/>滅，七人獲安心喜無量。
+<lb n="0601c11" ed="T"/>梵志國人莫不驚悚，仰瞻世尊光相赫奕
+<lb n="0601c12" ed="T"/>分身散體，東沒西現存亡自由，身出水火
+<lb n="0601c13" ed="T"/>五色晃昱，眾人見之五體歸命。於是七人
+<lb n="0601c14" ed="T"/>從薪下出，悲喜交集而說偈言：</p>
+<lb n="0601c15" ed="T"/><lg type="regular" xml:id="lgT04p0601c1501" style="margin-left:1em;text-indent:-1em"><l>「見聖人快，<caesura/>得依附快，<caesura/>得離愚人，</l>
+<lb n="0601c16" ed="T"/><l>為善獨快。<caesura/>守正見快，<caesura/>互說法快，</l>
+<lb n="0601c17" ed="T"/><l>與世無諍，<caesura/>戒具常快。<caesura/>使賢居快，</l>
+<lb n="0601c18" ed="T"/><l>如親親會，<caesura/>近仁智者，<caesura/>多聞高遠。」</l></lg>
+<lb n="0601c19" ed="T"/><p xml:id="pT04p0601c1901">於是七人說此偈已，及諸梵志願為弟子。
+<lb n="0601c20" ed="T"/>佛即<anchor xml:id="nkr_note_orig_0601028" n="0601028"/><anchor xml:id="nkr_note_mod_0601028" n="0601028"/><anchor xml:id="beg0601028" n="0601028"/>受<anchor xml:id="end0601028"/>之，皆為沙門，得羅漢道。國王臣民
+<lb n="0601c21" ed="T"/>咸各修道，天尋大雨國豐民寧，道化興隆
+<lb n="0601c22" ed="T"/>莫不樂聞。</p></rdg></app>
 <app from="#beg0575006" to="#end0575006"><lem wit="#wit.orig">晉世</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">西晉</rdg></app>
 <app from="#beg0575007" to="#end0575007"><lem wit="#wit.orig">沙門</lem><rdg resp="#resp2" wit="#wit4"><space quantity="0"/></rdg></app>
 <app from="#beg0575008" to="#end0575008"><lem wit="#wit.orig">立</lem><rdg resp="#resp2" wit="#wit4">立等</rdg></app>

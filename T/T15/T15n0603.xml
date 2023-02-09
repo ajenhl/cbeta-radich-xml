@@ -732,8 +732,15 @@
 <lb n="0180b06" ed="T"/>云何？愛欲為却清淨，瞋恚為却等意，睡為却
 <lb n="0180b07" ed="T"/><anchor xml:id="nkr_note_orig_0180027" n="0180027"/><anchor xml:id="nkr_note_mod_0180027" n="0180027"/><anchor xml:id="beg0180027" n="0180027"/>止<anchor xml:id="end0180027"/>，<anchor xml:id="nkr_note_orig_0180028" n="0180028"/><anchor xml:id="nkr_note_mod_0180028" n="0180028"/><anchor xml:id="beg0180028" n="0180028"/>瞑<anchor xml:id="end0180028"/>為却精進，五樂為却<g ref="#CB02959">𧗪</g>亦<anchor xml:id="beg_16" type="star"/>止<anchor xml:id="end_16"/>，結為
 <lb n="0180b08" ed="T"/>却不悔，疑為却慧，不知本從起，為却解明。</p>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0180b09" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><title>陰持入經</title>卷下</cb:jhead></cb:juan></cb:div>
-<lb n="0180b10" ed="T"/><cb:div type="w"><cb:mulu level="1" n="2" type="附文">（附文）佛說慧印百六十三定解</cb:mulu><anchor xml:id="nkr_note_orig_0180029" n="0180029"/><anchor xml:id="nkr_note_mod_0180029" n="0180029"/><anchor xml:id="beg0180029" n="0180029"/><head>佛說慧印百六十三定解</head>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0180b10" ed="T"/><cb:div type="w"><anchor xml:id="end0180029"/></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.orig"><cb:mulu level="1" n="2" type="附文">（附文）佛說慧印百六十三定解</cb:mulu><anchor xml:id="nkr_note_orig_0180029" n="0180029"/><head>佛說慧印百六十三定解</head>
 <lb n="0180b11" ed="T"/><p xml:id="pT15p0180b1101">當知舍利弗！如來之身為無身、無作、無起、無滅、
 <lb n="0180b12" ed="T"/>無從有、未曾造、無合、無遊、無至、無知、無習、都清
 <lb n="0180b13" ed="T"/>淨、無畜、無憎、無行、無止、無生、無報、無見、無間、無
@@ -756,12 +763,7 @@
 <pb n="0180c" ed="T" xml:id="T15.0603.0180c"/>
 <lb n="0180c01" ed="T"/>生、不可見、不有知、亦不死。不世因無不因，身然
 <lb n="0180c02" ed="T"/>不趺無有居處，非終、非始、非念、非憂、非事、非諍、
-<lb n="0180c03" ed="T"/>非惡相、非滅度、非滅訖、非所造、非不遊。</p><anchor xml:id="end0180029"/></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0180c03" ed="T"/>非惡相、非滅度、非滅訖、非所造、非不遊。</p></rdg></app>
 <app from="#beg0173b0201" to="#end0173b0201"><lem resp="#resp2" wit="#wit.cbeta #wit1">陰<note type="cf1">K20n0807_p1078b03</note></lem><rdg wit="#wit.orig">除</rdg></app>
 <app from="#beg0173009" to="#end0173009"><lem wit="#wit.orig">入</lem><rdg resp="#resp3" wit="#wit2">入解</rdg></app>
 <app from="#beg0173010" to="#end0173010"><lem wit="#wit.orig">卷上</lem><rdg resp="#resp3" wit="#wit3">上下同卷</rdg></app>

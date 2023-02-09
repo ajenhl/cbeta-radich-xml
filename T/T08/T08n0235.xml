@@ -448,15 +448,17 @@
 <lb ed="T" n="0752c01"/>優婆塞、優婆夷，一切世間天、人、阿修羅，聞佛
 <lb n="0752c02" ed="T"/>所說，皆大歡喜，信受奉行。</p></cb:div><cb:juan fun="close" n="1" place="inline"><cb:jhead>金剛般若波羅蜜
 <lb n="0752c03" ed="T"/>經</cb:jhead></cb:juan>
-<lb ed="T" n="0752c04"/><cb:div type="w"><cb:mulu level="1" type="附文">真言</cb:mulu><anchor xml:id="nkr_note_orig_0752010" n="0752010"/><anchor xml:id="nkr_note_mod_0752010" n="0752010"/><anchor xml:id="beg0752010" n="0752010"/><head>真言</head>
-<lb n="0752c05" ed="T"/><p cb:type="dharani" xml:id="pT08p0752c0501">那謨婆伽跋帝　鉢喇壤　波羅弭多曳　唵
-<lb ed="T" n="0752c06"/>伊利底　伊室利　輸盧馱　毘舍耶　毘舍
-<lb n="0752c07" ed="T"/>耶　莎婆訶</p><anchor xml:id="end0752010"/></cb:div>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb ed="T" n="0752c04"/><cb:div type="w"></cb:div> -->
 </body>
 <back>
 <cb:div type="apparatus">
 <head>校註</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.orig"><cb:mulu level="1" type="附文">真言</cb:mulu><anchor xml:id="nkr_note_orig_0752010" n="0752010"/><anchor xml:id="nkr_note_mod_0752010" n="0752010"/><anchor xml:id="beg0752010" n="0752010"/><head>真言</head>
+<lb n="0752c05" ed="T"/><p cb:type="dharani" xml:id="pT08p0752c0501">那謨婆伽跋帝　鉢喇壤　波羅弭多曳　唵
+<lb ed="T" n="0752c06"/>伊利底　伊室利　輸盧馱　毘舍耶　毘舍
+<lb n="0752c07" ed="T"/>耶　莎婆訶</p><anchor xml:id="end0752010"/></rdg></app>
 <app from="#beg0748026" to="#end0748026"><lem wit="#wit.orig">天竺三藏</lem><rdg wit="#wit1" resp="#resp2">三藏法師</rdg></app>
 <app from="#beg0748028" to="#end0748028"><lem wit="#wit.orig">應云何</lem><rdg wit="#wit2" resp="#resp2">云何應</rdg></app>
 <app from="#beg0749b2101" to="#end0749b2101"><lem resp="#resp3" wit="#wit.cbeta #wit3 #wit4">福德<note type="cf1">K05n0013_p0980a01</note><note type="cf2">Q05_p0361a26</note></lem><rdg wit="#wit.orig">復福</rdg></app>

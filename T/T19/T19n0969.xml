@@ -344,8 +344,15 @@
 <lb n="0357a28" ed="T"/>踊躍。與天帝俱禮佛而退。</p></cb:div>
 <lb n="0357a29" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><anchor xml:id="nkr_note_orig_0357003" n="0357003"/><anchor xml:id="nkr_note_mod_0357003" n="0357003"/><anchor xml:id="beg0357003" n="0357003"/>佛頂最勝陀羅尼經<anchor xml:id="end0357003"/></cb:jhead></cb:juan>
 <pb n="0357b" xml:id="T19.0969.0357b" ed="T"/>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0357b01" ed="T"/>
-<lb n="0357b02" ed="T"/><cb:div type="w"><cb:mulu level="1" n="1" type="附文">大輪金剛陀羅尼</cb:mulu><head><anchor xml:id="nkr_note_orig_0357004" n="0357004"/>大輪金剛陀羅尼</head>
+<!-- original content here now handled by the rdg element in Radich_app_1  <lb n="0357b02" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit2"><cb:mulu level="1" n="1" type="附文">大輪金剛陀羅尼</cb:mulu><head><anchor xml:id="nkr_note_orig_0357004" n="0357004"/>大輪金剛陀羅尼</head>
 <lb n="0357b03" ed="T"/>
 <lb n="0357b04" ed="T"/><byline cb:type="Translator">三藏地婆訶羅奉　詔譯</byline>
 <lb n="0357b05" ed="T"/><p cb:type="dharani" xml:id="pT19p0357b0501">納謨薩怛唎耶　地毘迦喃　怛他揭多喃
@@ -364,12 +371,7 @@
 <lb n="0357b18" ed="T"/><p cb:type="dharani" xml:id="pT19p0357b1801">唵<note place="inline">上</note>摩利支曳　薩婆薩多婆頞陀利沙利娑
 <lb n="0357b19" ed="T"/><note place="inline">上</note>婆<note place="inline">去</note>訶</p>
 <lb n="0357b20" ed="T"/><p xml:id="pT19p0357b2001">　誦此呪極護人身當日別三時各誦一百
-<lb n="0357b21" ed="T"/>八遍<anchor xml:id="nkr_note_orig_0357005" n="0357005"/>。</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0357b21" ed="T"/>八遍<anchor xml:id="nkr_note_orig_0357005" n="0357005"/>。</p></rdg></app>
 <app from="#beg0355004" to="#end0355004"><lem wit="#wit.orig">沙</lem><rdg resp="#resp2" wit="#wit1">弘福寺沙</rdg></app>
 <app from="#beg0355005" to="#end0355005"><lem wit="#wit.orig">序</lem><rdg resp="#resp2" wit="#wit2 #wit1">述</rdg></app>
 <app from="#beg0355006" to="#end0355006"><lem wit="#wit.orig">恍惚</lem><rdg resp="#resp2" wit="#wit2 #wit1">惚恍</rdg></app>

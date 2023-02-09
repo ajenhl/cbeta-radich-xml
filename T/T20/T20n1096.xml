@@ -1132,7 +1132,14 @@
 <lb n="0419b18" ed="T"/>僧<anchor xml:id="nkr_note_orig_0419012" n="0419012"/><anchor xml:id="nkr_note_mod_0419012" n="0419012"/><anchor xml:id="beg0419012" n="0419012"/>訶<anchor xml:id="end0419012"/>囉<note place="inline">十三</note>虎<g ref="#CB00292">𤙖</g><note place="inline">二合十四</note>泮吒<note place="inline">半音十五</note></p>
 <lb n="0419b19" ed="T"/><p xml:id="pT20p0419b1901">作壇已竟。然後應誦此呪掃除壇却。</p>
 <lb n="0419b20" ed="T"/><p xml:id="pT20p0419b2001"><anchor xml:id="nkr_note_orig_0419013" n="0419013"/><anchor xml:id="nkr_note_mod_0419013" n="0419013"/>新譯不空羂索經呪鈔功能竟。</p></cb:div>
-<lb n="0419b21" ed="T"/><cb:div type="w"><cb:mulu level="1" type="附文">不空羂索呪印</cb:mulu><head>不空羂索呪印一卷</head>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (in this case, the text represented by the rdg element occurs in all witnesses) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1  <lb n="0419b21" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, I have left the lem element empty because the T "endmatter" handled by the rdg element is supposed to occur in all witnesses --></lem><rdg wit="#wit.orig #wit1 #wit2 #wit3"><cb:mulu level="1" type="附文">不空羂索呪印</cb:mulu><head>不空羂索呪印一卷</head>
 <lb n="0419b22" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">阿牟伽皤奢神通自在印呪心</cb:mulu><head>阿牟伽皤奢神通自在印呪心</head>
 <lb n="0419b23" ed="T"/><cb:div type="other"><cb:mulu level="3" type="其他">1 雲自在印呪</cb:mulu><head>雲自在印呪第一</head>
 <lb n="0419b24" ed="T"/><p xml:id="pT20p0419b2401">屈右無名及小指。以大指<anchor xml:id="nkr_note_orig_0419014" n="0419014"/><anchor xml:id="nkr_note_mod_0419014" n="0419014"/><anchor xml:id="beg0419014" n="0419014"/>押<anchor xml:id="end0419014"/>其甲上。中指頭
@@ -1302,12 +1309,7 @@
 <lb n="0421b09" ed="T"/><p cb:type="dharani" xml:id="pT20p0421b0901">唵<note place="inline">一</note>步三末羅<note place="inline">二</note>鹽<note place="inline">三</note>莎訶<note place="inline">四</note></p>
 <lb n="0421b10" ed="T"/><p xml:id="pT20p0421b1001">若欲續驗。每日平旦於水罐上。結印誦呪二
 <lb n="0421b11" ed="T"/>十一遍灌其頂。</p></cb:div><anchor xml:id="end0420039"/>
-<lb n="0421b12" ed="T"/><p xml:id="pT20p0421b1201">不空羂索陀羅尼經<anchor xml:id="nkr_note_orig_0421001" n="0421001"/><anchor xml:id="nkr_note_mod_0421001" n="0421001"/><anchor xml:id="beg0421001" n="0421001"/>一卷<anchor xml:id="end0421001"/><anchor xml:id="nkr_note_orig_0421002" n="0421002"/><anchor xml:id="beg0421002" n="0421002"/><space quantity="0"/><anchor xml:id="end0421002"/></p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0421b12" ed="T"/><p xml:id="pT20p0421b1201">不空羂索陀羅尼經<anchor xml:id="nkr_note_orig_0421001" n="0421001"/><anchor xml:id="nkr_note_mod_0421001" n="0421001"/><anchor xml:id="beg0421001" n="0421001"/>一卷<anchor xml:id="end0421001"/><anchor xml:id="nkr_note_orig_0421002" n="0421002"/><anchor xml:id="beg0421002" n="0421002"/><space quantity="0"/><anchor xml:id="end0421002"/></p></rdg></app>
 <app from="#beg0409003" to="#end0409003"><lem wit="#wit.orig">福壽寺</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg><rdg resp="#resp2" wit="#wit2 #wit3">翻經筆受</rdg></app>
 <app from="#beg0409004" to="#end0409004"><lem wit="#wit.orig">氷</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">霜</rdg></app>
 <app from="#beg0409005" to="#end0409005"><lem wit="#wit.orig">少</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">劣而</rdg></app>

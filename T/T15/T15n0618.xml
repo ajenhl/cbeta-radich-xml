@@ -2366,18 +2366,20 @@
 <lb n="0325b24" ed="T"/>時二日，晝夜各十五摩睺路妬；從是後，羅婆
 <lb n="0325b25" ed="T"/>流，或晝減夜增，或夜減晝增，名為流晝夜等，
 <lb n="0325b26" ed="T"/>各三十摩睺路妬。</p></cb:div>
-<lb n="0325b27" ed="T"/><cb:div type="w"><p xml:id="pT15p0325b2701"><note place="inline">謂羯提月白分八日，陛舍佉月白分八日。羯提月者，謂
-<lb n="0325b28" ed="T"/>七月十六<anchor xml:id="nkr_note_orig_0325012" n="0325012"/><anchor xml:id="nkr_note_mod_0325012" n="0325012"/><anchor xml:id="beg0325012" n="0325012"/>日<anchor xml:id="end0325012"/>，至八月十五日，是八月名後半月，名白
-<lb n="0325b29" ed="T"/>分；陛舍佉月者，正月十六日，至二月十五日，是二月名
-<pb n="0325c" ed="T" xml:id="T15.0618.0325c"/>
-<lb n="0325c01" ed="T"/>後半月，名白分。此二時二日，晝夜各<anchor xml:id="nkr_note_orig_0325013" n="0325013"/><anchor xml:id="nkr_note_mod_0325013" n="0325013"/><anchor xml:id="beg0325013" n="0325013"/>三<anchor xml:id="end0325013"/>十摩睺路妬；
-<lb n="0325c02" ed="T"/>從是後，羅婆流，<anchor xml:id="nkr_note_orig_0325014" n="0325014"/><anchor xml:id="nkr_note_mod_0325014" n="0325014"/><anchor xml:id="beg0325014" n="0325014"/>或<anchor xml:id="end0325014"/>晝減夜增，或夜減晝增，名為流。</note></p></cb:div>
+<lb n="0325b27" ed="T"/><cb:div type="w"></cb:div>
 <lb n="0325c03" ed="T"/><cb:juan n="002" fun="close"><cb:jhead><title>達摩多羅禪經</title>卷下</cb:jhead></cb:juan>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the lem element in Radich_app_1, lem element is empty (in this weird case, all witnesses are identical, but for some reason, CBETA handled it as a div type "w" element) --><anchor xml:id="Radich_app_1_end"/>
 </body>
 <back>
 <cb:div type="apparatus">
 <head>校註</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this weird case, T "endmatter" handled by the rdg element occurs in all witnesses --></lem><rdg wit="#wit.cbeta #wit.orig #wit1 #wit2 #wit3 #wit4 #wit5 #wit6"><p xml:id="pT15p0325b2701"><note place="inline">謂羯提月白分八日，陛舍佉月白分八日。羯提月者，謂
+<lb n="0325b28" ed="T"/>七月十六<anchor xml:id="nkr_note_orig_0325012" n="0325012"/><anchor xml:id="nkr_note_mod_0325012" n="0325012"/><anchor xml:id="beg0325012" n="0325012"/>日<anchor xml:id="end0325012"/>，至八月十五日，是八月名後半月，名白
+<lb n="0325b29" ed="T"/>分；陛舍佉月者，正月十六日，至二月十五日，是二月名
+<pb n="0325c" ed="T" xml:id="T15.0618.0325c"/>
+<lb n="0325c01" ed="T"/>後半月，名白分。此二時二日，晝夜各<anchor xml:id="nkr_note_orig_0325013" n="0325013"/><anchor xml:id="nkr_note_mod_0325013" n="0325013"/><anchor xml:id="beg0325013" n="0325013"/>三<anchor xml:id="end0325013"/>十摩睺路妬；
+<lb n="0325c02" ed="T"/>從是後，羅婆流，<anchor xml:id="nkr_note_orig_0325014" n="0325014"/><anchor xml:id="nkr_note_mod_0325014" n="0325014"/><anchor xml:id="beg0325014" n="0325014"/>或<anchor xml:id="end0325014"/>晝減夜增，或夜減晝增，名為流。</note></p></rdg></app>
 <app from="#beg0300009" to="#end0300009"><lem wit="#wit.orig">卷上</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3 #wit4">序</rdg></app>
 <app cb:word-count="12" from="#beg0300010" to="#end0300010"><lem wit="#wit.orig">東晉天竺三藏佛陀跋陀羅譯</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3 #wit4"><space quantity="0"/></rdg></app>
 <app from="#beg0300c2101" to="#end0300c2101"><lem wit="#wit.cbeta #wit5" resp="#resp3">藉<note type="cf1">K30n1003_p0258b04</note></lem><rdg wit="#wit.orig">籍</rdg></app>

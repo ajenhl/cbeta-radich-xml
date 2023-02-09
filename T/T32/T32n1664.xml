@@ -566,6 +566,7 @@
 <lb n="0568b05" ed="T"/>即不能斷疑惑種子。譬如世間火若存時，諸
 <lb n="0568b06" ed="T"/>物燒然。云何能離思之一法？若不調止<anchor xml:id="nkr_note_orig_0568003" n="0568003"/><anchor type="circle"/>所
 <lb n="0568b07" ed="T"/>有邪。</p>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (no corresponding text base text and witnesses not named in rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0568b08" ed="T"/><p xml:id="pT32p0568b0801">由此當知，所有奢摩<anchor xml:id="nkr_note_orig_0568004" n="0568004"/><anchor xml:id="nkr_note_mod_0568004" n="0568004"/><anchor xml:id="beg0568004" n="0568004"/>他<anchor xml:id="end0568004"/>諸所緣中心住堅固，
 <lb n="0568b09" ed="T"/>如理所作以慧伺察智光明生，明現暗除智
 <lb n="0568b10" ed="T"/>生障滅。如人二目隨量無差，於諸分位照明
@@ -725,28 +726,7 @@
 <lb n="0570a14" ed="T"/><p xml:id="pT32p0570a1401">如《無盡意經》說：禪定無盡，而能出生慧及方
 <lb n="0570a15" ed="T"/>便。其所出生，應知即是相應行者所行勝道。</p>
 <lb n="0570a16" ed="T"/><cb:juan n="003" fun="close"><cb:jhead><title>廣釋菩提心論</title>卷第三</cb:jhead></cb:juan></cb:div>
-<lb n="0570a17" ed="T"/><cb:div type="w"><p xml:id="pT32p0570a1701"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0570001" n="0570001"/>妄分別刺等，何能拔除？復次此中
-<lb n="0570a18" ed="T"/>云何能離疑惑種子？謂於相應定中，以慧
-<lb n="0570a19" ed="T"/>眼觀彼種子空，如先所說。於色等中若以
-<lb n="0570a20" ed="T"/><anchor xml:id="nkr_note_orig_0570002" n="0570002"/><anchor xml:id="nkr_note_mod_0570002" n="0570002"/><anchor xml:id="beg0570002" n="0570002"/>其<anchor xml:id="end0570002"/>所得相而為得者，畢竟無得。如人迷
-<lb n="0570a21" ed="T"/>繩謂蛇，智了無異。色中離疑，其義亦然。
-<lb n="0570a22" ed="T"/>以慧眼觀<anchor xml:id="nkr_note_orig_0570003" n="0570003"/><anchor xml:id="nkr_note_mod_0570003" n="0570003"/><anchor xml:id="beg0570003" n="0570003"/>諸境<anchor xml:id="end0570003"/>不實、邪妄計執，如人處於
-<lb n="0570a23" ed="T"/>暗室復<anchor xml:id="nkr_note_orig_0570004" n="0570004"/><anchor xml:id="nkr_note_mod_0570004" n="0570004"/><anchor xml:id="beg0570004" n="0570004"/>還掩<anchor xml:id="end0570004"/>閉，<anchor xml:id="nkr_note_orig_0570005" n="0570005"/><anchor xml:id="nkr_note_mod_0570005" n="0570005"/><anchor xml:id="beg0570005" n="0570005"/>總<anchor xml:id="end0570005"/>一暗冥都無所見。又
-<lb n="0570a24" ed="T"/>如瓶等器中盛滿諸物，以蓋覆故亦無所
-<lb n="0570a25" ed="T"/>見。此中意者，是暗室等雖無所見，然色
-<lb n="0570a26" ed="T"/>等有性疑惑取著亦不能離。以不離故，彼
-<lb n="0570a27" ed="T"/>雖無見不斷過失。如是等人諸取著心，畢
-<lb n="0570a28" ed="T"/>竟云何而能除斷？是故應以三摩地，手執
-<lb n="0570a29" ed="T"/>極微妙快利慧刀，斷彼思色等邪妄分別
-<pb n="0570b" ed="T" xml:id="T32.1664.0570b"/>
-<lb n="0570b01" ed="T"/>種子。如是真實斷故，譬如拔樹連根悉除，
-<lb n="0570b02" ed="T"/>地既無根不復生長。邪思種子既得斷已，
-<lb n="0570b03" ed="T"/>一切過失悉不復生。此中如是，斷障等義
-<lb n="0570b04" ed="T"/>是奢摩他、毘鉢舍那相應法門，即修行者
-<lb n="0570b05" ed="T"/>所行之道。如世尊言：此相應門，是無分別
-<lb n="0570b06" ed="T"/>正智因性。故經頌云：</p>
-<lb n="0570b07" ed="T"/><lg type="regular" xml:id="lgT32p0570b0701" style="margin-left:1em;text-indent:-1em"><l>「先安住戒次得定，<caesura/>得彼定已慧當修，</l>
-<lb n="0570b08" ed="T"/><l>清淨圓明智慧成，<caesura/>智淨先由戒具足。」</l></lg></cb:div>
+<!-- original content here now handled by the rdg element in Radich_app_1  <lb n="0570a17" ed="T"/><cb:div type="w"></cb:div> -->
 <milestone unit="juan" n="4"/>
 <lb n="0570b09" ed="T"/>
 <cb:div type="jing">
@@ -942,6 +922,28 @@
 <cb:div type="apparatus">
 <head>校註</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2"><p xml:id="pT32p0570a1701"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0570001" n="0570001"/>妄分別刺等，何能拔除？復次此中
+<lb n="0570a18" ed="T"/>云何能離疑惑種子？謂於相應定中，以慧
+<lb n="0570a19" ed="T"/>眼觀彼種子空，如先所說。於色等中若以
+<lb n="0570a20" ed="T"/><anchor xml:id="nkr_note_orig_0570002" n="0570002"/><anchor xml:id="nkr_note_mod_0570002" n="0570002"/><anchor xml:id="beg0570002" n="0570002"/>其<anchor xml:id="end0570002"/>所得相而為得者，畢竟無得。如人迷
+<lb n="0570a21" ed="T"/>繩謂蛇，智了無異。色中離疑，其義亦然。
+<lb n="0570a22" ed="T"/>以慧眼觀<anchor xml:id="nkr_note_orig_0570003" n="0570003"/><anchor xml:id="nkr_note_mod_0570003" n="0570003"/><anchor xml:id="beg0570003" n="0570003"/>諸境<anchor xml:id="end0570003"/>不實、邪妄計執，如人處於
+<lb n="0570a23" ed="T"/>暗室復<anchor xml:id="nkr_note_orig_0570004" n="0570004"/><anchor xml:id="nkr_note_mod_0570004" n="0570004"/><anchor xml:id="beg0570004" n="0570004"/>還掩<anchor xml:id="end0570004"/>閉，<anchor xml:id="nkr_note_orig_0570005" n="0570005"/><anchor xml:id="nkr_note_mod_0570005" n="0570005"/><anchor xml:id="beg0570005" n="0570005"/>總<anchor xml:id="end0570005"/>一暗冥都無所見。又
+<lb n="0570a24" ed="T"/>如瓶等器中盛滿諸物，以蓋覆故亦無所
+<lb n="0570a25" ed="T"/>見。此中意者，是暗室等雖無所見，然色
+<lb n="0570a26" ed="T"/>等有性疑惑取著亦不能離。以不離故，彼
+<lb n="0570a27" ed="T"/>雖無見不斷過失。如是等人諸取著心，畢
+<lb n="0570a28" ed="T"/>竟云何而能除斷？是故應以三摩地，手執
+<lb n="0570a29" ed="T"/>極微妙快利慧刀，斷彼思色等邪妄分別
+<pb n="0570b" ed="T" xml:id="T32.1664.0570b"/>
+<lb n="0570b01" ed="T"/>種子。如是真實斷故，譬如拔樹連根悉除，
+<lb n="0570b02" ed="T"/>地既無根不復生長。邪思種子既得斷已，
+<lb n="0570b03" ed="T"/>一切過失悉不復生。此中如是，斷障等義
+<lb n="0570b04" ed="T"/>是奢摩他、毘鉢舍那相應法門，即修行者
+<lb n="0570b05" ed="T"/>所行之道。如世尊言：此相應門，是無分別
+<lb n="0570b06" ed="T"/>正智因性。故經頌云：</p>
+<lb n="0570b07" ed="T"/><lg type="regular" xml:id="lgT32p0570b0701" style="margin-left:1em;text-indent:-1em"><l>「先安住戒次得定，<caesura/>得彼定已慧當修，</l>
+<lb n="0570b08" ed="T"/><l>清淨圓明智慧成，<caesura/>智淨先由戒具足。」</l></lg></rdg></app>
 <app from="#beg0563002" to="#end0563002"><lem wit="#wit.orig">西天</lem><rdg resp="#resp2" wit="#wit1">宋西天</rdg></app>
 <app from="#beg0563003" to="#end0563003"><lem wit="#wit.orig">譯經</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
 <app from="#beg0563004" to="#end0563004"><lem wit="#wit.orig">三藏</lem><rdg resp="#resp2" wit="#wit2 #wit3 #wit1 #wit4">三藏朝奉大夫試光祿卿</rdg></app>

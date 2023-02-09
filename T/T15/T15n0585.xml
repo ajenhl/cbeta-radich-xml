@@ -2922,17 +2922,7 @@
 <lb n="0031a22" ed="T"/>便<anchor xml:id="nkr_note_orig_0031005" n="0031005"/><anchor xml:id="nkr_note_mod_0031005" n="0031005"/><anchor xml:id="beg0031005" n="0031005"/>至<anchor xml:id="end0031005"/>於堅強力勢超異，怨家<anchor xml:id="nkr_note_orig_0031006" n="0031006"/><anchor xml:id="nkr_note_mod_0031006" n="0031006"/><anchor xml:id="beg0031006" n="0031006"/>盜<anchor xml:id="end0031006"/>賊不得其
 <lb n="0031a23" ed="T"/>便，彼輒如是寂然經行，坐起臥<anchor xml:id="nkr_note_orig_0031007" n="0031007"/><anchor xml:id="nkr_note_mod_0031007" n="0031007"/><anchor xml:id="beg0031007" n="0031007"/>寐<anchor xml:id="end0031007"/>如斯，普
 <lb n="0031a24" ed="T"/>首號曰神呪之句<anchor xml:id="nkr_note_orig_0031008" n="0031008"/><anchor xml:id="nkr_note_mod_0031008" n="0031008"/><anchor xml:id="beg0031008" n="0031008"/>義<anchor xml:id="end0031008"/>也。</p>
-<lb n="0031a25" ed="T"/><p cb:type="dharani" xml:id="pT15p0031a2501">「<anchor xml:id="nkr_note_orig_0031009" n="0031009"/><anchor xml:id="nkr_note_mod_0031009" n="0031009"/>優頭黎頭頭黎　末<g ref="#CB02930">𥇭</g>　遮<g ref="#CB02930">𥇭</g>　彌離楴離
-<lb n="0031a26" ed="T"/>楴　隷彌隷睺樓　睺樓音　睺留伊拔<g ref="#CB02930">𥇭</g>
-<lb n="0031a27" ed="T"/>　錍拔<g ref="#CB02930">𥇭</g>　丘丘離佉羅祇　阿那提　揭提
-<lb n="0031a28" ed="T"/>　初往至　摩醯隸摩那夷摩嬭　抱犍提　薩
-<lb n="0031a29" ed="T"/>披樓　臈披娑揭提　新頭隷　南無佛檀遮
-<pb n="0031b" ed="T" xml:id="T15.0585.0031b"/>
-<lb n="0031b01" ed="T"/>栗提　南無曇　<g ref="#CB01862">䁥</g>偈　南無僧披醯多善披
-<lb n="0031b02" ed="T"/>扇陀　薩披波披　彌多羅彌浮提壽　薩遮
-<lb n="0031b03" ed="T"/>尼陀羅　披羅摩那波世多　黎夷波　世多
-<lb n="0031b04" ed="T"/>阿致禪提　薩陀浮陀　迦羅呵　南無佛陀
-<lb n="0031b05" ed="T"/>悉禪提慢　陀鉢</p>
+<anchor xml:id="Radich_app_1_start"/><!-- original content here now handled by the lem element in Radich_app_1 --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0031b06" ed="T"/><p xml:id="pT15p0031b0601">「<anchor xml:id="nkr_note_orig_0031010" n="0031010"/>佛所說呪者吉。」佛語普首童真：「是為神呪之
 <lb n="0031b07" ed="T"/>句，設有菩薩遵修奉行<anchor xml:id="nkr_note_orig_0031011" n="0031011"/><anchor xml:id="nkr_note_mod_0031011" n="0031011"/><anchor xml:id="beg0031011" n="0031011"/>斯<anchor xml:id="end0031011"/>經典者，則<anchor xml:id="nkr_note_orig_0031012" n="0031012"/><anchor xml:id="nkr_note_mod_0031012" n="0031012"/><anchor xml:id="beg0031012" n="0031012"/>為已<anchor xml:id="end0031012"/>
 <lb n="0031b08" ed="T"/>安<anchor xml:id="nkr_note_orig_0031013" n="0031013"/><anchor xml:id="nkr_note_mod_0031013" n="0031013"/><anchor xml:id="beg0031013" n="0031013"/>祥<anchor xml:id="end0031013"/>尋後將護，而不卒暴靡有亂心，其行
@@ -3081,7 +3071,23 @@
 <lb n="0033a04" ed="T"/>阿難，諸天、人民、阿須倫，聞佛所說莫不歡
 <lb n="0033a05" ed="T"/>喜。</p>
 <lb n="0033a06" ed="T"/><cb:juan n="004" fun="close"><cb:jhead><title>持心梵<anchor xml:id="nkr_note_orig_0033003" n="0033003"/><anchor xml:id="nkr_note_mod_0033003" n="0033003"/><anchor xml:id="beg0033003" n="0033003"/>天所問<anchor xml:id="end0033003"/>經</title>卷第四</cb:jhead></cb:juan></cb:div>
-<lb n="0033a07" ed="T"/><cb:div type="w"><p cb:type="dharani" xml:id="pT15p0033a0701">「<anchor xml:id="nkr_note_orig_0033004" n="0033004"/><anchor xml:id="nkr_note_mod_0033004" n="0033004"/>優頭犁　頭頭犁　末<anchor xml:id="nkr_note_orig_0033005" n="0033005"/><anchor xml:id="nkr_note_mod_0033005" n="0033005"/><anchor xml:id="beg0033005" n="0033005"/>知<anchor xml:id="end0033005"/>　遮<anchor xml:id="nkr_note_orig_0033006" n="0033006"/><anchor xml:id="nkr_note_mod_0033006" n="0033006"/><anchor xml:id="beg0033006" n="0033006"/><g ref="#CB02913">󰭡</g><anchor xml:id="end0033006"/>　彌
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0033a07" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><lb n="0031a25" ed="T"/><p cb:type="dharani" xml:id="pT15p0031a2501">「<anchor xml:id="nkr_note_orig_0031009" n="0031009"/><anchor xml:id="nkr_note_mod_0031009" n="0031009"/>優頭黎頭頭黎　末<g ref="#CB02930">𥇭</g>　遮<g ref="#CB02930">𥇭</g>　彌離楴離
+<lb n="0031a26" ed="T"/>楴　隷彌隷睺樓　睺樓音　睺留伊拔<g ref="#CB02930">𥇭</g>
+<lb n="0031a27" ed="T"/>　錍拔<g ref="#CB02930">𥇭</g>　丘丘離佉羅祇　阿那提　揭提
+<lb n="0031a28" ed="T"/>　初往至　摩醯隸摩那夷摩嬭　抱犍提　薩
+<lb n="0031a29" ed="T"/>披樓　臈披娑揭提　新頭隷　南無佛檀遮
+<pb n="0031b" ed="T" xml:id="T15.0585.0031b"/>
+<lb n="0031b01" ed="T"/>栗提　南無曇　<g ref="#CB01862">䁥</g>偈　南無僧披醯多善披
+<lb n="0031b02" ed="T"/>扇陀　薩披波披　彌多羅彌浮提壽　薩遮
+<lb n="0031b03" ed="T"/>尼陀羅　披羅摩那波世多　黎夷波　世多
+<lb n="0031b04" ed="T"/>阿致禪提　薩陀浮陀　迦羅呵　南無佛陀
+<lb n="0031b05" ed="T"/>悉禪提慢　陀鉢</p></lem><rdg wit="#wit1 #wit2 #wit3 #wit4"><p cb:type="dharani" xml:id="pT15p0033a0701">「<anchor xml:id="nkr_note_orig_0033004" n="0033004"/><anchor xml:id="nkr_note_mod_0033004" n="0033004"/>優頭犁　頭頭犁　末<anchor xml:id="nkr_note_orig_0033005" n="0033005"/><anchor xml:id="nkr_note_mod_0033005" n="0033005"/><anchor xml:id="beg0033005" n="0033005"/>知<anchor xml:id="end0033005"/>　遮<anchor xml:id="nkr_note_orig_0033006" n="0033006"/><anchor xml:id="nkr_note_mod_0033006" n="0033006"/><anchor xml:id="beg0033006" n="0033006"/><g ref="#CB02913">󰭡</g><anchor xml:id="end0033006"/>　彌
 <lb n="0033a08" ed="T"/>離　揥離　揥隷　彌隷<anchor xml:id="nkr_note_orig_0033007" n="0033007"/><anchor xml:id="nkr_note_mod_0033007" n="0033007"/><anchor xml:id="beg0033007" n="0033007"/>睺<anchor xml:id="end0033007"/>樓<anchor xml:id="nkr_note_orig_0033008" n="0033008"/><anchor xml:id="nkr_note_mod_0033008" n="0033008"/><anchor xml:id="beg0033008" n="0033008"/><note place="inline">短音</note><anchor xml:id="end0033008"/>　<anchor xml:id="nkr_note_orig_0033009" n="0033009"/><anchor xml:id="nkr_note_mod_0033009" n="0033009"/><anchor xml:id="beg0033009" n="0033009"/>睺<anchor xml:id="end0033009"/>樓
 <lb n="0033a09" ed="T"/><note place="inline">長音</note>　睺留<note place="inline">氏音</note>　吚拔<anchor xml:id="nkr_note_orig_0033010" n="0033010"/><anchor xml:id="nkr_note_mod_0033010" n="0033010"/><anchor xml:id="beg0033010" n="0033010"/><g ref="#CB02913">󰭡</g><anchor xml:id="end0033010"/>　錍拔<anchor xml:id="beg_4f" type="star"/><g ref="#CB02913">󰭡</g><anchor xml:id="end_4f"/>　丘丘
 <lb n="0033a10" ed="T"/>離　佉羅祇　阿那提<note place="inline">無有實</note>　揭提<note place="inline">初往至</note>　摩
@@ -3093,12 +3099,7 @@
 <lb n="0033a16" ed="T"/>提儔<note place="inline">修實慈</note>　薩遮尼陀耶<note place="inline">諦示現</note>　披羅摩那<note place="inline">淨志</note>
 <lb n="0033a17" ed="T"/>　波世多<note place="inline">教化</note>　利夷<note place="inline">神仙</note>　波世多<note place="inline">開導</note>　阿致單
 <lb n="0033a18" ed="T"/>提<note place="inline">無現在</note>　薩陀浮陀伽羅呵<note place="inline">將攝諸魅</note>　南無佛陀
-<lb n="0033a19" ed="T"/>悉蟬提曼陀鉢<note place="inline">稽首</note>」</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0033a19" ed="T"/>悉蟬提曼陀鉢<note place="inline">稽首</note>」</p></rdg></app>
 <app from="#beg0001002" to="#end0001002"><lem wit="#wit.orig">諸義</lem><rdg resp="#resp2" wit="#wit1 #wit2">諸義經</rdg><rdg resp="#resp2" wit="#wit3">經</rdg></app>
 <app from="#beg0001003" to="#end0001003"><lem wit="#wit.orig">佛說</lem><rdg resp="#resp2" wit="#wit3"><space quantity="0"/></rdg></app>
 <app cb:word-count="17" from="#beg0001001" to="#end0001001"><lem wit="#wit.orig"><note place="inline">一名莊嚴佛法<note n="0001002" resp="#resp2" type="orig" place="foot text">諸義＝諸義經【宋】【元】，經【明】</note><note n="0001002" resp="#resp1" type="mod">諸義【大】，諸義經【宋】【元】，經【明】</note><app n="0001002"><lem wit="#wit.orig">諸義</lem><rdg resp="#resp2" wit="#wit1 #wit2">諸義經</rdg><rdg resp="#resp2" wit="#wit3">經</rdg></app>，又名<lb n="0001a04" ed="T"/><note n="0001003" resp="#resp2" type="orig" place="foot text">〔佛說〕－【明】</note><note n="0001003" resp="#resp1" type="mod">佛說【大】，〔－〕【明】</note><app n="0001003"><lem wit="#wit.orig">佛說</lem><rdg resp="#resp2" wit="#wit3"><space quantity="0"/></rdg></app>等御諸法經</note></lem><rdg resp="#resp2" wit="#wit4"><space quantity="0"/></rdg></app>

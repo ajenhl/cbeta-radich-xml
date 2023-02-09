@@ -2668,7 +2668,7 @@
 <lb n="0079a16" ed="T"/>
 <lb n="0079a17" ed="T"/><byline cb:type="Translator">宋涼洲沙門釋寶雲譯</byline>
 <lb n="0079a18" ed="T"/><cb:div type="pin"><cb:mulu level="1" n="17" type="品">17 度五比丘品</cb:mulu><head><anchor xml:id="nkr_note_orig_0079007" n="0079007"/><anchor xml:id="nkr_note_mod_0079007" n="0079007"/><anchor xml:id="beg0079007" n="0079007"/>度五比丘品第十七<anchor xml:id="end0079007"/></head>
-<lb n="0079a19" ed="T"/><lg type="regular" xml:id="lgT04p0079a1901" style="margin-left:1em;text-indent:-1em"><l>「<anchor xml:id="nkr_note_orig_0079008" n="0079008"/>敬順於佛，<caesura/>意無差別；<caesura/>吾愍汝等，</l>
+<lb n="0079a19" ed="T"/><lg type="regular" xml:id="lgT04p0079a1901" style="margin-left:1em;text-indent:-1em"><l>「<anchor xml:id="nkr_note_orig_0079008" n="0079008"/><anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (no corresponding text base text and witnesses not named in rdg element) --><anchor xml:id="Radich_app_1_end"/>敬順於佛，<caesura/>意無差別；<caesura/>吾愍汝等，</l>
 <lb n="0079a20" ed="T"/><l>令離罪咎。<caesura/>佛於世間，<caesura/>普施以善；</l>
 <lb n="0079a21" ed="T"/><l>以平等慈，<caesura/>猶如赤子。<caesura/>其有慢意，</l>
 <lb n="0079a22" ed="T"/><l>侍是師者；<caesura/>其人受<g ref="#CB00985">𠎝</g>，<caesura/>如違慈父。」</l>
@@ -3374,125 +3374,7 @@
 <lb n="0087a02" ed="T"/><l>得度生死，<caesura/>苦惱之對；<caesura/>因入泥洹，</l>
 <lb n="0087a03" ed="T"/><l>安樂之城。</l></lg></cb:div>
 <lb n="0087a04" ed="T"/><cb:juan n="004" fun="close"><cb:jhead><title>佛本行經</title>卷第四</cb:jhead></cb:juan>
-<lb n="0087a05" ed="T"/><cb:div type="w"><head><anchor xml:id="nkr_note_orig_0087001" n="0087001"/><anchor xml:id="nkr_note_cf._0087001" n="0087001"/>轉法輪品第十七</head>
-<lb n="0087a06" ed="T"/><lg type="regular" xml:id="lgT04p0087a0601" style="margin-left:0em;text-indent:0em"><l style="text-indent:1em">願成懷歡喜，<caesura/>悅澤樹王下；</l>
-<lb n="0087a07" ed="T"/><l style="text-indent:1em">坐觀樹七日，<caesura/>不食喜充盈。</l>
-<lb n="0087a08" ed="T"/><l style="text-indent:1em">猶王初臨國，<caesura/>巡行妙寶藏；</l>
-<lb n="0087a09" ed="T"/><l style="text-indent:1em">佛妙藏亦爾，<caesura/>先觀視諸法。</l>
-<lb n="0087a10" ed="T"/><l style="text-indent:1em">以佛眼普視，<caesura/>世間悉了見；</l>
-<lb n="0087a11" ed="T"/><l style="text-indent:1em">覺世行入邪，<caesura/>六師迷惑說。</l>
-<lb n="0087a12" ed="T"/><l style="text-indent:1em">法微妙難解，<caesura/>愚了泥洹解；</l>
-<lb n="0087a13" ed="T"/><l style="text-indent:1em">覺第一最覺，<caesura/>意欲默然寂。</l>
-<lb n="0087a14" ed="T"/><l style="text-indent:1em">最神妙梵天，<caesura/>方便見無偏；</l>
-<lb n="0087a15" ed="T"/><l style="text-indent:1em">知佛先世誓，<caesura/>發心欲來下。</l>
-<lb n="0087a16" ed="T"/><l style="text-indent:1em">欲以善益世，<caesura/>妙辭請法雨；</l>
-<lb n="0087a17" ed="T"/><l style="text-indent:1em">被<g ref="#CB00626">㲲</g>明如日，<caesura/>顯然降世間。</l>
-<lb n="0087a18" ed="T"/><l style="text-indent:1em">尋來到佛前，<caesura/>敬稽首佛足；</l>
-<lb n="0087a19" ed="T"/><l style="text-indent:1em">在佛側甚明，<caesura/>如風吹金樹。</l>
-<lb n="0087a20" ed="T"/><l style="text-indent:1em">慈目視無厭，<caesura/>盡敬白佛言：</l>
-<lb n="0087a21" ed="T"/><l style="text-indent:0em">「願憶果敢誓，<caesura/>施甘露於世。</l></lg>
-<lb n="0087a22" ed="T"/><lg type="regular" xml:id="lgT04p0087a2201" style="margin-left:0em;text-indent:0em"><l>「世人如藕，<caesura/>華微妙好；<caesura/>或齊水敷，</l>
-<lb n="0087a23" ed="T"/><l style="text-indent:1em">或出水上。<caesura/>眾生欽仰，<caesura/>佛日當出；</l>
-<lb n="0087a24" ed="T"/><l style="text-indent:1em">蒙日心開，<caesura/>猶池中華。<caesura/>捨佛世尊，</l>
-<lb n="0087a25" ed="T"/><l style="text-indent:1em">無誰能有；<caesura/>從生死獄，<caesura/>拔出眾生。</l>
-<lb n="0087a26" ed="T"/><l style="text-indent:1em">猶如往古，<caesura/>轉輪聖王；<caesura/>濟眾生苦，</l>
-<lb n="0087a27" ed="T"/><l style="text-indent:1em">以十善行。<caesura/>已能<g ref="#CB00238">㧌</g>攪，<caesura/>智慧海淵；</l>
-<lb n="0087a28" ed="T"/><l style="text-indent:1em">得上神良，<caesura/>甘露法藥。<caesura/>欲以充滿，</l>
-<lb n="0087a29" ed="T"/><l style="text-indent:1em">眾生疾苦；<caesura/>宜開惠施，<caesura/>分甘露藥。</l>
-<pb n="0087b" ed="T" xml:id="T04.0193.0087b"/>
-<lb n="0087b01" ed="T"/><l style="text-indent:1em">尊已得度，<caesura/>眾苦海淵；<caesura/>願以法船，</l>
-<lb n="0087b02" ed="T"/><l style="text-indent:1em">度一切生。<caesura/>猶如賈客，<caesura/>沈沒海中；</l>
-<lb n="0087b03" ed="T"/><l style="text-indent:1em">方便濟度，<caesura/>如巧船師。<caesura/>塵勞之疾，</l>
-<lb n="0087b04" ed="T"/><l style="text-indent:1em">甚重弊惡；<caesura/>眾生久患，<caesura/>不遇良醫。</l>
-<lb n="0087b05" ed="T"/><l style="text-indent:1em">最上醫王，<caesura/>興出于世；<caesura/>今宜授與，</l>
-<lb n="0087b06" ed="T"/><l style="text-indent:1em">法神良藥。<caesura/>想煙如雲，<caesura/>覆蓋甚厚；</l>
-<lb n="0087b07" ed="T"/><l style="text-indent:1em">婬火熾燒，<caesura/>諸天世人。<caesura/>尊已飽滿，</l>
-<lb n="0087b08" ed="T"/><l style="text-indent:1em">宜傷眾生；<caesura/>願以法水，<caesura/>充飽一切。</l>
-<lb n="0087b09" ed="T"/><l style="text-indent:1em">已能滅除，<caesura/>一切愚冥；<caesura/>心明智慧，</l>
-<lb n="0087b10" ed="T"/><l style="text-indent:1em">喻如大燈。<caesura/>愚冥覆蔽，<caesura/>世間之眼；</l>
-<lb n="0087b11" ed="T"/><l style="text-indent:1em">願施法燈，<caesura/>照曜愚心。<caesura/>尊已服飲，</l>
-<lb n="0087b12" ed="T"/><l style="text-indent:1em">先佛口教；<caesura/>言辭之江，<caesura/>猶先仙人。</l>
-<lb n="0087b13" ed="T"/><l style="text-indent:1em">願從妙口，<caesura/>慈哀惠捨；<caesura/>清淨言辭，</l>
-<lb n="0087b14" ed="T"/><l style="text-indent:1em">恒水江河。<caesura/>貢高慢山，<caesura/>巖甚峻高；</l>
-<lb n="0087b15" ed="T"/><l style="text-indent:1em">以慧剛杵，<caesura/>碎令無餘。<caesura/>願復以此，</l>
-<lb n="0087b16" ed="T"/><l style="text-indent:1em">智慧法杵；<caesura/>施與眾生，<caesura/>令碎慢山。</l>
-<lb n="0087b17" ed="T"/><l style="text-indent:1em">心性躁擾，<caesura/>今已調良；<caesura/>縛以審諦，</l>
-<lb n="0087b18" ed="T"/><l style="text-indent:1em">智慧之繩。<caesura/>願施世間，<caesura/>清淨調意；</l>
-<lb n="0087b19" ed="T"/><l style="text-indent:1em">智慧牢固，<caesura/>索之繫縛。<caesura/>慈仁之主，</l>
-<lb n="0087b20" ed="T"/><l style="text-indent:1em">施惠慈心；<caesura/>眾生久遠，<caesura/>墮邪徑路。</l>
-<lb n="0087b21" ed="T"/><l style="text-indent:1em">世間導師，<caesura/>今已出興；<caesura/>願導世間，</l>
-<lb n="0087b22" ed="T"/><l style="text-indent:1em">生死曠野。<caesura/>迦葉佛來，<caesura/>世皆昏寐；</l>
-<lb n="0087b23" ed="T"/><l style="text-indent:1em">沈沒迷惑，<caesura/>塵勞長夜。<caesura/>惟願世尊，</l>
-<lb n="0087b24" ed="T"/><l style="text-indent:1em">宜以正法，<caesura/>之大鐘鼓，<caesura/>覺寤久眠。」</l>
-<lb n="0087b25" ed="T"/><l style="text-indent:1em">世間梵尊，<caesura/>受許梵天；<caesura/>淨音微妙，</l>
-<lb n="0087b26" ed="T"/><l style="text-indent:1em">當班宣法。<caesura/>梵天聞之，<caesura/>甚大歡喜；</l>
-<lb n="0087b27" ed="T"/><l style="text-indent:1em">禮佛足已，<caesura/>忽昇虛逝。<caesura/>於是眾善，</l>
-<lb n="0087b28" ed="T"/><l style="text-indent:1em">第一法器；<caesura/>號曰世間，<caesura/>功德福田。</l>
-<lb n="0087b29" ed="T"/><l style="text-indent:1em">佛應普受，<caesura/>眾生之施；<caesura/>四王即來，</l>
-<pb n="0087c" ed="T" xml:id="T04.0193.0087c"/>
-<lb n="0087c01" ed="T"/><l style="text-indent:1em">奉獻四鉢。<caesura/>佛即時以，<caesura/>神變之力；</l>
-<lb n="0087c02" ed="T"/><l style="text-indent:1em">左受右按，<caesura/>合成一器。<caesura/>於是便受，</l>
-<lb n="0087c03" ed="T"/><l style="text-indent:1em">二賈客施；<caesura/>始受五戒，<caesura/>為清信士。</l>
-<lb n="0087c04" ed="T"/><l style="text-indent:1em">因是發意，<caesura/>當廣說法；<caesura/>佛眼始視，</l>
-<lb n="0087c05" ed="T"/><l style="text-indent:1em">應得度者。<caesura/>阿蘭命過，<caesura/>已至七日；</l>
-<lb n="0087c06" ed="T"/><l style="text-indent:1em">見欝陀羅，<caesura/>昨夜命終。<caesura/>因復憶念，</l>
-<lb n="0087c07" ed="T"/><l style="text-indent:1em">侍者五人；<caesura/>欲為是等，<caesura/>除長夜冥。</l>
-<lb n="0087c08" ed="T"/><l style="text-indent:1em">行詣大城，<caesura/>波羅奈界；<caesura/>威儀安庠，</l>
-<lb n="0087c09" ed="T"/><l style="text-indent:1em">猶師子步。<caesura/>所作已辦，<caesura/>相好甚著；</l>
-<lb n="0087c10" ed="T"/><l style="text-indent:1em">厥雖獨行，<caesura/>德如眾從。<caesura/>有一達士，</l>
-<lb n="0087c11" ed="T"/><l style="text-indent:1em">名曰尼揵；<caesura/>於路逢之，<caesura/>意用愕然。</l>
-<lb n="0087c12" ed="T"/><l style="text-indent:1em">占相變夢，<caesura/>逆知吉凶；<caesura/>八種世典，</l>
-<lb n="0087c13" ed="T"/><l style="text-indent:1em">名稱獨舉。<caesura/>見佛德相，<caesura/>審諦觀視；</l>
-<lb n="0087c14" ed="T"/><l style="text-indent:1em">謙遜恭敬，<caesura/>軟辭白佛：<caesura/>「諸染著中，</l>
-<lb n="0087c15" ed="T"/><l style="text-indent:1em">而無所著；<caesura/>諸根動中，<caesura/>寂無所動。</l>
-<lb n="0087c16" ed="T"/><l style="text-indent:1em">瞻覩面相，<caesura/>於情有疑；<caesura/>將無智慧，</l>
-<lb n="0087c17" ed="T"/><l style="text-indent:1em">明達具足。<caesura/>熟視面相，<caesura/>清徹明好；</l>
-<lb n="0087c18" ed="T"/><l style="text-indent:1em">牽御諸根，<caesura/>所為自在。<caesura/>觀察儀容，</l>
-<lb n="0087c19" ed="T"/><l style="text-indent:1em">所作事辦；<caesura/>師為是誰？<caesura/>願為誠告。」</l>
-<lb n="0087c20" ed="T"/><l style="text-indent:1em">時佛告以，<caesura/>清淨之聲：<caesura/>「天上世間，</l>
-<lb n="0087c21" ed="T"/><l style="text-indent:1em">吾無有師；<caesura/>吾不詣師，<caesura/>自然覺之。</l>
-<lb n="0087c22" ed="T"/><l style="text-indent:1em">吾證佛滅，<caesura/>卿當了之；<caesura/>自稱為佛，</l>
-<lb n="0087c23" ed="T"/><l style="text-indent:1em">已普勝邪。<caesura/>如是尼揵，<caesura/>應覺已覺；</l>
-<lb n="0087c24" ed="T"/><l style="text-indent:1em">一切可勝，<caesura/>都已得勝。<caesura/>以是勝故，</l>
-<lb n="0087c25" ed="T"/><l style="text-indent:1em">成一切智；<caesura/>今始行詣，<caesura/>波羅奈城。</l>
-<lb n="0087c26" ed="T"/><l style="text-indent:1em">吾欲於彼，<caesura/>擊大法鼓；<caesura/>為世苦惱，</l>
-<lb n="0087c27" ed="T"/><l style="text-indent:1em">建置善法。<caesura/>普請令會，<caesura/>法之上賓；</l>
-<lb n="0087c28" ed="T"/><l style="text-indent:1em">獨安己身，<caesura/>是不為奇。<caesura/>濟拔勤勞，</l>
-<lb n="0087c29" ed="T"/><l style="text-indent:1em">一身苦者；<caesura/>廣為眾生，<caesura/>而求善者；</l>
-<pb n="0088a" ed="T" xml:id="T04.0193.0088a"/>
-<lb n="0088a01" ed="T"/><l style="text-indent:1em">其人功德，<caesura/>不可計量。<caesura/>若以一身，</l>
-<lb n="0088a02" ed="T"/><l style="text-indent:1em">度流上岸；<caesura/>若復見人，<caesura/>為水所漂；</l>
-<lb n="0088a03" ed="T"/><l style="text-indent:1em">不發慈心，<caesura/>濟水流人；<caesura/>是輩不可，</l>
-<lb n="0088a04" ed="T"/><l style="text-indent:1em">稱為道士。<caesura/>若復有得，<caesura/>伏藏珍寶；</l>
-<lb n="0088a05" ed="T"/><l style="text-indent:1em">不惠濟貧，<caesura/>是不可爾。<caesura/>手持良藥，</l>
-<lb n="0088a06" ed="T"/><l style="text-indent:1em">行瞻病人；<caesura/>不以濟病，<caesura/>齎之何益？</l>
-<lb n="0088a07" ed="T"/><l style="text-indent:1em">若見迷人，<caesura/>行失路者；<caesura/>不示正路，</l>
-<lb n="0088a08" ed="T"/><l style="text-indent:1em">不名大道。<caesura/>若復見人，<caesura/>為蛇所螫；</l>
-<lb n="0088a09" ed="T"/><l style="text-indent:1em">不與其呪，<caesura/>用此人為。<caesura/>若自然燈，</l>
-<lb n="0088a10" ed="T"/><l style="text-indent:1em">有所照見；<caesura/>是不可以，<caesura/>置恩於此。</l>
-<lb n="0088a11" ed="T"/><l style="text-indent:1em">佛以慈善，<caesura/>教化一切；<caesura/>為人說法，</l>
-<lb n="0088a12" ed="T"/><l style="text-indent:1em">不以貢高。<caesura/>木中可保，<caesura/>必審有火；</l>
-<lb n="0088a13" ed="T"/><l style="text-indent:1em">空中有風，<caesura/>地中有水。<caesura/>如是諸佛，</l>
-<lb n="0088a14" ed="T"/><l style="text-indent:1em">必有聖道；<caesura/>道樹下得，<caesura/>波羅奈說。」</l>
-<lb n="0088a15" ed="T"/><l style="text-indent:1em">即時歎咤，<caesura/>甚妙無比；<caesura/>尼揵歎已，</l>
-<lb n="0088a16" ed="T"/><l style="text-indent:1em">順道而逝。<caesura/>心懷喜行，<caesura/>數數顧瞻；</l>
-<lb n="0088a17" ed="T"/><l style="text-indent:1em">慈目視佛，<caesura/>而無厭足。<caesura/>佛順道行，</l>
-<lb n="0088a18" ed="T"/><l style="text-indent:1em">至波羅奈；<caesura/>翔鳥所樂，<caesura/>鹿野之園。</l>
-<lb n="0088a19" ed="T"/><l style="text-indent:1em">光相晃昱，<caesura/>明曜於世；<caesura/>猶日天子，</l>
-<lb n="0088a20" ed="T"/><l style="text-indent:1em">入迷惑園。<caesura/>億寶意好，<caesura/>邊方第三，</l>
-<lb n="0088a21" ed="T"/><l style="text-indent:1em">第四馬氏，<caesura/>第五賢居。<caesura/>爾時五人，</l>
-<lb n="0088a22" ed="T"/><l style="text-indent:1em">遙見佛來；<caesura/>還共論議，<caesura/>而相謂言：</l>
-<lb n="0088a23" ed="T"/><l style="text-indent:0em">「樂義者來，<caesura/>是瞿曇子；<caesura/>退失本志，</l>
-<lb n="0088a24" ed="T"/><l style="text-indent:1em">術敗不成。<caesura/>不足起迎，<caesura/>亦莫禮待；</l>
-<lb n="0088a25" ed="T"/><l style="text-indent:1em">本誓已壞，<caesura/>不宜恭敬。」<caesura/>如是要已，</l>
-<lb n="0088a26" ed="T"/><l style="text-indent:1em">急坐不起。<caesura/>語言之頃，<caesura/>佛即來至；</l>
-<lb n="0088a27" ed="T"/><l style="text-indent:1em">忽不自覺，<caesura/>違其本要。<caesura/>猶如地神，</l>
-<lb n="0088a28" ed="T"/><l style="text-indent:1em">擎持令起。<caesura/>或有迎接，<caesura/>攝取衣者；</l>
-<lb n="0088a29" ed="T"/><l style="text-indent:1em">又有取鉢，<caesura/>設座席者。<caesura/>以如是像，</l>
-<pb n="0088b" ed="T" xml:id="T04.0193.0088b"/>
-<lb n="0088b01" ed="T"/><l style="text-indent:1em">承敬奉佛；<caesura/>猶不能捨，<caesura/>世俗戲言。</l>
-<lb n="0088b02" ed="T"/><l style="text-indent:1em">佛因告曰：<caesura/>「非道士宜，<caesura/>佛前不宜，</l>
-<lb n="0088b03" ed="T"/><l style="text-indent:1em">慢無恭肅。」</l></lg></cb:div>
+<!-- original content here now handled by the rdg element in Radich_app_1<lb n="0087a05" ed="T"/><cb:div type="w"></cb:div> -->
 <milestone n="5" unit="juan"/>
 <lb n="0088b04" ed="T"/>
 <lb n="0088b05" ed="T"/>
@@ -5939,6 +5821,124 @@
 <cb:div type="apparatus">
 <head>校註</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3"><head><anchor xml:id="nkr_note_orig_0087001" n="0087001"/><anchor xml:id="nkr_note_cf._0087001" n="0087001"/>轉法輪品第十七</head><lb n="0087a06" ed="T"/><lg type="regular" xml:id="lgT04p0087a0601" style="margin-left:0em;text-indent:0em"><l style="text-indent:1em">願成懷歡喜，<caesura/>悅澤樹王下；</l>
+<lb n="0087a07" ed="T"/><l style="text-indent:1em">坐觀樹七日，<caesura/>不食喜充盈。</l>
+<lb n="0087a08" ed="T"/><l style="text-indent:1em">猶王初臨國，<caesura/>巡行妙寶藏；</l>
+<lb n="0087a09" ed="T"/><l style="text-indent:1em">佛妙藏亦爾，<caesura/>先觀視諸法。</l>
+<lb n="0087a10" ed="T"/><l style="text-indent:1em">以佛眼普視，<caesura/>世間悉了見；</l>
+<lb n="0087a11" ed="T"/><l style="text-indent:1em">覺世行入邪，<caesura/>六師迷惑說。</l>
+<lb n="0087a12" ed="T"/><l style="text-indent:1em">法微妙難解，<caesura/>愚了泥洹解；</l>
+<lb n="0087a13" ed="T"/><l style="text-indent:1em">覺第一最覺，<caesura/>意欲默然寂。</l>
+<lb n="0087a14" ed="T"/><l style="text-indent:1em">最神妙梵天，<caesura/>方便見無偏；</l>
+<lb n="0087a15" ed="T"/><l style="text-indent:1em">知佛先世誓，<caesura/>發心欲來下。</l>
+<lb n="0087a16" ed="T"/><l style="text-indent:1em">欲以善益世，<caesura/>妙辭請法雨；</l>
+<lb n="0087a17" ed="T"/><l style="text-indent:1em">被<g ref="#CB00626">㲲</g>明如日，<caesura/>顯然降世間。</l>
+<lb n="0087a18" ed="T"/><l style="text-indent:1em">尋來到佛前，<caesura/>敬稽首佛足；</l>
+<lb n="0087a19" ed="T"/><l style="text-indent:1em">在佛側甚明，<caesura/>如風吹金樹。</l>
+<lb n="0087a20" ed="T"/><l style="text-indent:1em">慈目視無厭，<caesura/>盡敬白佛言：</l>
+<lb n="0087a21" ed="T"/><l style="text-indent:0em">「願憶果敢誓，<caesura/>施甘露於世。</l></lg>
+<lb n="0087a22" ed="T"/><lg type="regular" xml:id="lgT04p0087a2201" style="margin-left:0em;text-indent:0em"><l>「世人如藕，<caesura/>華微妙好；<caesura/>或齊水敷，</l>
+<lb n="0087a23" ed="T"/><l style="text-indent:1em">或出水上。<caesura/>眾生欽仰，<caesura/>佛日當出；</l>
+<lb n="0087a24" ed="T"/><l style="text-indent:1em">蒙日心開，<caesura/>猶池中華。<caesura/>捨佛世尊，</l>
+<lb n="0087a25" ed="T"/><l style="text-indent:1em">無誰能有；<caesura/>從生死獄，<caesura/>拔出眾生。</l>
+<lb n="0087a26" ed="T"/><l style="text-indent:1em">猶如往古，<caesura/>轉輪聖王；<caesura/>濟眾生苦，</l>
+<lb n="0087a27" ed="T"/><l style="text-indent:1em">以十善行。<caesura/>已能<g ref="#CB00238">㧌</g>攪，<caesura/>智慧海淵；</l>
+<lb n="0087a28" ed="T"/><l style="text-indent:1em">得上神良，<caesura/>甘露法藥。<caesura/>欲以充滿，</l>
+<lb n="0087a29" ed="T"/><l style="text-indent:1em">眾生疾苦；<caesura/>宜開惠施，<caesura/>分甘露藥。</l>
+<pb n="0087b" ed="T" xml:id="T04.0193.0087b"/>
+<lb n="0087b01" ed="T"/><l style="text-indent:1em">尊已得度，<caesura/>眾苦海淵；<caesura/>願以法船，</l>
+<lb n="0087b02" ed="T"/><l style="text-indent:1em">度一切生。<caesura/>猶如賈客，<caesura/>沈沒海中；</l>
+<lb n="0087b03" ed="T"/><l style="text-indent:1em">方便濟度，<caesura/>如巧船師。<caesura/>塵勞之疾，</l>
+<lb n="0087b04" ed="T"/><l style="text-indent:1em">甚重弊惡；<caesura/>眾生久患，<caesura/>不遇良醫。</l>
+<lb n="0087b05" ed="T"/><l style="text-indent:1em">最上醫王，<caesura/>興出于世；<caesura/>今宜授與，</l>
+<lb n="0087b06" ed="T"/><l style="text-indent:1em">法神良藥。<caesura/>想煙如雲，<caesura/>覆蓋甚厚；</l>
+<lb n="0087b07" ed="T"/><l style="text-indent:1em">婬火熾燒，<caesura/>諸天世人。<caesura/>尊已飽滿，</l>
+<lb n="0087b08" ed="T"/><l style="text-indent:1em">宜傷眾生；<caesura/>願以法水，<caesura/>充飽一切。</l>
+<lb n="0087b09" ed="T"/><l style="text-indent:1em">已能滅除，<caesura/>一切愚冥；<caesura/>心明智慧，</l>
+<lb n="0087b10" ed="T"/><l style="text-indent:1em">喻如大燈。<caesura/>愚冥覆蔽，<caesura/>世間之眼；</l>
+<lb n="0087b11" ed="T"/><l style="text-indent:1em">願施法燈，<caesura/>照曜愚心。<caesura/>尊已服飲，</l>
+<lb n="0087b12" ed="T"/><l style="text-indent:1em">先佛口教；<caesura/>言辭之江，<caesura/>猶先仙人。</l>
+<lb n="0087b13" ed="T"/><l style="text-indent:1em">願從妙口，<caesura/>慈哀惠捨；<caesura/>清淨言辭，</l>
+<lb n="0087b14" ed="T"/><l style="text-indent:1em">恒水江河。<caesura/>貢高慢山，<caesura/>巖甚峻高；</l>
+<lb n="0087b15" ed="T"/><l style="text-indent:1em">以慧剛杵，<caesura/>碎令無餘。<caesura/>願復以此，</l>
+<lb n="0087b16" ed="T"/><l style="text-indent:1em">智慧法杵；<caesura/>施與眾生，<caesura/>令碎慢山。</l>
+<lb n="0087b17" ed="T"/><l style="text-indent:1em">心性躁擾，<caesura/>今已調良；<caesura/>縛以審諦，</l>
+<lb n="0087b18" ed="T"/><l style="text-indent:1em">智慧之繩。<caesura/>願施世間，<caesura/>清淨調意；</l>
+<lb n="0087b19" ed="T"/><l style="text-indent:1em">智慧牢固，<caesura/>索之繫縛。<caesura/>慈仁之主，</l>
+<lb n="0087b20" ed="T"/><l style="text-indent:1em">施惠慈心；<caesura/>眾生久遠，<caesura/>墮邪徑路。</l>
+<lb n="0087b21" ed="T"/><l style="text-indent:1em">世間導師，<caesura/>今已出興；<caesura/>願導世間，</l>
+<lb n="0087b22" ed="T"/><l style="text-indent:1em">生死曠野。<caesura/>迦葉佛來，<caesura/>世皆昏寐；</l>
+<lb n="0087b23" ed="T"/><l style="text-indent:1em">沈沒迷惑，<caesura/>塵勞長夜。<caesura/>惟願世尊，</l>
+<lb n="0087b24" ed="T"/><l style="text-indent:1em">宜以正法，<caesura/>之大鐘鼓，<caesura/>覺寤久眠。」</l>
+<lb n="0087b25" ed="T"/><l style="text-indent:1em">世間梵尊，<caesura/>受許梵天；<caesura/>淨音微妙，</l>
+<lb n="0087b26" ed="T"/><l style="text-indent:1em">當班宣法。<caesura/>梵天聞之，<caesura/>甚大歡喜；</l>
+<lb n="0087b27" ed="T"/><l style="text-indent:1em">禮佛足已，<caesura/>忽昇虛逝。<caesura/>於是眾善，</l>
+<lb n="0087b28" ed="T"/><l style="text-indent:1em">第一法器；<caesura/>號曰世間，<caesura/>功德福田。</l>
+<lb n="0087b29" ed="T"/><l style="text-indent:1em">佛應普受，<caesura/>眾生之施；<caesura/>四王即來，</l>
+<pb n="0087c" ed="T" xml:id="T04.0193.0087c"/>
+<lb n="0087c01" ed="T"/><l style="text-indent:1em">奉獻四鉢。<caesura/>佛即時以，<caesura/>神變之力；</l>
+<lb n="0087c02" ed="T"/><l style="text-indent:1em">左受右按，<caesura/>合成一器。<caesura/>於是便受，</l>
+<lb n="0087c03" ed="T"/><l style="text-indent:1em">二賈客施；<caesura/>始受五戒，<caesura/>為清信士。</l>
+<lb n="0087c04" ed="T"/><l style="text-indent:1em">因是發意，<caesura/>當廣說法；<caesura/>佛眼始視，</l>
+<lb n="0087c05" ed="T"/><l style="text-indent:1em">應得度者。<caesura/>阿蘭命過，<caesura/>已至七日；</l>
+<lb n="0087c06" ed="T"/><l style="text-indent:1em">見欝陀羅，<caesura/>昨夜命終。<caesura/>因復憶念，</l>
+<lb n="0087c07" ed="T"/><l style="text-indent:1em">侍者五人；<caesura/>欲為是等，<caesura/>除長夜冥。</l>
+<lb n="0087c08" ed="T"/><l style="text-indent:1em">行詣大城，<caesura/>波羅奈界；<caesura/>威儀安庠，</l>
+<lb n="0087c09" ed="T"/><l style="text-indent:1em">猶師子步。<caesura/>所作已辦，<caesura/>相好甚著；</l>
+<lb n="0087c10" ed="T"/><l style="text-indent:1em">厥雖獨行，<caesura/>德如眾從。<caesura/>有一達士，</l>
+<lb n="0087c11" ed="T"/><l style="text-indent:1em">名曰尼揵；<caesura/>於路逢之，<caesura/>意用愕然。</l>
+<lb n="0087c12" ed="T"/><l style="text-indent:1em">占相變夢，<caesura/>逆知吉凶；<caesura/>八種世典，</l>
+<lb n="0087c13" ed="T"/><l style="text-indent:1em">名稱獨舉。<caesura/>見佛德相，<caesura/>審諦觀視；</l>
+<lb n="0087c14" ed="T"/><l style="text-indent:1em">謙遜恭敬，<caesura/>軟辭白佛：<caesura/>「諸染著中，</l>
+<lb n="0087c15" ed="T"/><l style="text-indent:1em">而無所著；<caesura/>諸根動中，<caesura/>寂無所動。</l>
+<lb n="0087c16" ed="T"/><l style="text-indent:1em">瞻覩面相，<caesura/>於情有疑；<caesura/>將無智慧，</l>
+<lb n="0087c17" ed="T"/><l style="text-indent:1em">明達具足。<caesura/>熟視面相，<caesura/>清徹明好；</l>
+<lb n="0087c18" ed="T"/><l style="text-indent:1em">牽御諸根，<caesura/>所為自在。<caesura/>觀察儀容，</l>
+<lb n="0087c19" ed="T"/><l style="text-indent:1em">所作事辦；<caesura/>師為是誰？<caesura/>願為誠告。」</l>
+<lb n="0087c20" ed="T"/><l style="text-indent:1em">時佛告以，<caesura/>清淨之聲：<caesura/>「天上世間，</l>
+<lb n="0087c21" ed="T"/><l style="text-indent:1em">吾無有師；<caesura/>吾不詣師，<caesura/>自然覺之。</l>
+<lb n="0087c22" ed="T"/><l style="text-indent:1em">吾證佛滅，<caesura/>卿當了之；<caesura/>自稱為佛，</l>
+<lb n="0087c23" ed="T"/><l style="text-indent:1em">已普勝邪。<caesura/>如是尼揵，<caesura/>應覺已覺；</l>
+<lb n="0087c24" ed="T"/><l style="text-indent:1em">一切可勝，<caesura/>都已得勝。<caesura/>以是勝故，</l>
+<lb n="0087c25" ed="T"/><l style="text-indent:1em">成一切智；<caesura/>今始行詣，<caesura/>波羅奈城。</l>
+<lb n="0087c26" ed="T"/><l style="text-indent:1em">吾欲於彼，<caesura/>擊大法鼓；<caesura/>為世苦惱，</l>
+<lb n="0087c27" ed="T"/><l style="text-indent:1em">建置善法。<caesura/>普請令會，<caesura/>法之上賓；</l>
+<lb n="0087c28" ed="T"/><l style="text-indent:1em">獨安己身，<caesura/>是不為奇。<caesura/>濟拔勤勞，</l>
+<lb n="0087c29" ed="T"/><l style="text-indent:1em">一身苦者；<caesura/>廣為眾生，<caesura/>而求善者；</l>
+<pb n="0088a" ed="T" xml:id="T04.0193.0088a"/>
+<lb n="0088a01" ed="T"/><l style="text-indent:1em">其人功德，<caesura/>不可計量。<caesura/>若以一身，</l>
+<lb n="0088a02" ed="T"/><l style="text-indent:1em">度流上岸；<caesura/>若復見人，<caesura/>為水所漂；</l>
+<lb n="0088a03" ed="T"/><l style="text-indent:1em">不發慈心，<caesura/>濟水流人；<caesura/>是輩不可，</l>
+<lb n="0088a04" ed="T"/><l style="text-indent:1em">稱為道士。<caesura/>若復有得，<caesura/>伏藏珍寶；</l>
+<lb n="0088a05" ed="T"/><l style="text-indent:1em">不惠濟貧，<caesura/>是不可爾。<caesura/>手持良藥，</l>
+<lb n="0088a06" ed="T"/><l style="text-indent:1em">行瞻病人；<caesura/>不以濟病，<caesura/>齎之何益？</l>
+<lb n="0088a07" ed="T"/><l style="text-indent:1em">若見迷人，<caesura/>行失路者；<caesura/>不示正路，</l>
+<lb n="0088a08" ed="T"/><l style="text-indent:1em">不名大道。<caesura/>若復見人，<caesura/>為蛇所螫；</l>
+<lb n="0088a09" ed="T"/><l style="text-indent:1em">不與其呪，<caesura/>用此人為。<caesura/>若自然燈，</l>
+<lb n="0088a10" ed="T"/><l style="text-indent:1em">有所照見；<caesura/>是不可以，<caesura/>置恩於此。</l>
+<lb n="0088a11" ed="T"/><l style="text-indent:1em">佛以慈善，<caesura/>教化一切；<caesura/>為人說法，</l>
+<lb n="0088a12" ed="T"/><l style="text-indent:1em">不以貢高。<caesura/>木中可保，<caesura/>必審有火；</l>
+<lb n="0088a13" ed="T"/><l style="text-indent:1em">空中有風，<caesura/>地中有水。<caesura/>如是諸佛，</l>
+<lb n="0088a14" ed="T"/><l style="text-indent:1em">必有聖道；<caesura/>道樹下得，<caesura/>波羅奈說。」</l>
+<lb n="0088a15" ed="T"/><l style="text-indent:1em">即時歎咤，<caesura/>甚妙無比；<caesura/>尼揵歎已，</l>
+<lb n="0088a16" ed="T"/><l style="text-indent:1em">順道而逝。<caesura/>心懷喜行，<caesura/>數數顧瞻；</l>
+<lb n="0088a17" ed="T"/><l style="text-indent:1em">慈目視佛，<caesura/>而無厭足。<caesura/>佛順道行，</l>
+<lb n="0088a18" ed="T"/><l style="text-indent:1em">至波羅奈；<caesura/>翔鳥所樂，<caesura/>鹿野之園。</l>
+<lb n="0088a19" ed="T"/><l style="text-indent:1em">光相晃昱，<caesura/>明曜於世；<caesura/>猶日天子，</l>
+<lb n="0088a20" ed="T"/><l style="text-indent:1em">入迷惑園。<caesura/>億寶意好，<caesura/>邊方第三，</l>
+<lb n="0088a21" ed="T"/><l style="text-indent:1em">第四馬氏，<caesura/>第五賢居。<caesura/>爾時五人，</l>
+<lb n="0088a22" ed="T"/><l style="text-indent:1em">遙見佛來；<caesura/>還共論議，<caesura/>而相謂言：</l>
+<lb n="0088a23" ed="T"/><l style="text-indent:0em">「樂義者來，<caesura/>是瞿曇子；<caesura/>退失本志，</l>
+<lb n="0088a24" ed="T"/><l style="text-indent:1em">術敗不成。<caesura/>不足起迎，<caesura/>亦莫禮待；</l>
+<lb n="0088a25" ed="T"/><l style="text-indent:1em">本誓已壞，<caesura/>不宜恭敬。」<caesura/>如是要已，</l>
+<lb n="0088a26" ed="T"/><l style="text-indent:1em">急坐不起。<caesura/>語言之頃，<caesura/>佛即來至；</l>
+<lb n="0088a27" ed="T"/><l style="text-indent:1em">忽不自覺，<caesura/>違其本要。<caesura/>猶如地神，</l>
+<lb n="0088a28" ed="T"/><l style="text-indent:1em">擎持令起。<caesura/>或有迎接，<caesura/>攝取衣者；</l>
+<lb n="0088a29" ed="T"/><l style="text-indent:1em">又有取鉢，<caesura/>設座席者。<caesura/>以如是像，</l>
+<pb n="0088b" ed="T" xml:id="T04.0193.0088b"/>
+<lb n="0088b01" ed="T"/><l style="text-indent:1em">承敬奉佛；<caesura/>猶不能捨，<caesura/>世俗戲言。</l>
+<lb n="0088b02" ed="T"/><l style="text-indent:1em">佛因告曰：<caesura/>「非道士宜，<caesura/>佛前不宜，</l>
+<lb n="0088b03" ed="T"/><l style="text-indent:1em">慢無恭肅。」</l></lg></rdg></app>
 <app cb:word-count="7" from="#beg0054014" to="#end0054014"><lem wit="#wit.orig"><note place="inline">一名佛本行讚傳</note></lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3"><space quantity="0"/></rdg></app>
 <app from="#beg0054015" to="#end0054015"><lem wit="#wit.orig">頒</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">班</rdg></app>
 <app from="#beg0054016" to="#end0054016"><lem wit="#wit.orig">普</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">著</rdg></app>

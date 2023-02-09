@@ -748,6 +748,7 @@
 <lb n="0672c01" ed="T"/>十二明了論已。<anchor xml:id="nkr_note_orig_0672005" n="0672005"/><anchor xml:id="nkr_note_mod_0672005" n="0672005"/><anchor xml:id="beg0672005" n="0672005"/>此<anchor xml:id="end0672005"/>論是佛陀多羅多阿那含
 <lb n="0672c02" ed="T"/>法師所造，為憐愍怖畏廣文句人故略攝律
 <lb n="0672c03" ed="T"/>義。</p></cb:div>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem>BASE TEXT</lem><rdg wit="#wit1 #wit2 #wit3">OLD ENDMATTER</rdg></app>
 <lb n="0672c04" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>律二十二明了論</title><anchor xml:id="nkr_note_orig_0672006" n="0672006"/><anchor xml:id="nkr_note_mod_0672006" n="0672006"/><anchor xml:id="beg0672006" n="0672006"/>一卷<anchor xml:id="end0672006"/></cb:jhead></cb:juan>
 <lb n="0672c05" ed="T"/><cb:div type="w"><p xml:id="pT24p0672c0501">陳光大二年，歲次戊子，正月二十日，都下
 <lb n="0672c06" ed="T"/>定林寺律師法泰，於廣州南海郡內，請三
@@ -757,7 +758,14 @@
 <lb n="0672c10" ed="T"/>了義長行，或逐義破句釋之，諸句不復皆
 <lb n="0672c11" ed="T"/>相屬著。今謹別<anchor xml:id="nkr_note_orig_0672008" n="0672008"/><anchor xml:id="nkr_note_mod_0672008" n="0672008"/><anchor xml:id="beg0672008" n="0672008"/>鈔<anchor xml:id="end0672008"/>二十二偈，置於卷末，
 <lb n="0672c12" ed="T"/>庶披文者見其起盡也。</p>
-<lb n="0672c13" ed="T"/><lg type="regular" xml:id="lgT24p0672c1301"><l>毘曇毘尼文所顯，<caesura/>與戒及護相應人，</l>
+<!-- original content here now handled by the rdg element in Radich_app_1 -->
+<lb n="0673a28" ed="T"/><p xml:id="pT24p0673a2801"><anchor xml:id="nkr_note_orig_0673005" n="0673005"/><anchor xml:id="nkr_note_mod_0673005" n="0673005"/><anchor xml:id="beg0673005" n="0673005"/>律二十二<anchor xml:id="end0673005"/>明了論<anchor xml:id="nkr_note_orig_0673006" n="0673006"/><anchor xml:id="nkr_note_mod_0673006" n="0673006"/><anchor xml:id="beg0673006" n="0673006"/>一卷<anchor xml:id="end0673006"/></p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.cbeta #wit1 #wit2 #wit3 #wit4 #wit5 #wit6"><lb n="0672c13" ed="T"/><lg type="regular" xml:id="lgT24p0672c1301"><l>毘曇毘尼文所顯，<caesura/>與戒及護相應人，</l>
 <lb n="0672c14" ed="T"/><l>諸佛所讚修<anchor xml:id="beg_d" type="star"/>三<anchor xml:id="end_d"/>學，<caesura/>不看他面我當說。</l>
 <lb n="0672c15" ed="T"/><l>明八戒護九十六，<caesura/>分別差別義相應，</l>
 <lb n="0672c16" ed="T"/><l>倍二十一千福河，<caesura/>流善法水洗除污。</l>
@@ -801,13 +809,7 @@
 <lb n="0673a24" ed="T"/><l>了義能顯明了德，<caesura/>謂五五十尊師德，</l>
 <lb n="0673a25" ed="T"/><l><anchor xml:id="nkr_note_orig_0673003" n="0673003"/><anchor xml:id="nkr_note_mod_0673003" n="0673003"/><anchor xml:id="beg0673003" n="0673003"/>此<anchor xml:id="end0673003"/>人圓滿佛所讚，<caesura/>毘那耶師德相應。</l>
 <lb n="0673a26" ed="T"/><l>於此等義心決了，<caesura/>由讀誦文事行師，</l>
-<lb n="0673a27" ed="T"/><l>此人於律則明了，<caesura/>佛說此人不依<anchor xml:id="nkr_note_orig_0673004" n="0673004"/><anchor xml:id="nkr_note_mod_0673004" n="0673004"/><anchor xml:id="beg0673004" n="0673004"/>他<anchor xml:id="end0673004"/>。</l></lg>
-<lb n="0673a28" ed="T"/><p xml:id="pT24p0673a2801"><anchor xml:id="nkr_note_orig_0673005" n="0673005"/><anchor xml:id="nkr_note_mod_0673005" n="0673005"/><anchor xml:id="beg0673005" n="0673005"/>律二十二<anchor xml:id="end0673005"/>明了論<anchor xml:id="nkr_note_orig_0673006" n="0673006"/><anchor xml:id="nkr_note_mod_0673006" n="0673006"/><anchor xml:id="beg0673006" n="0673006"/>一卷<anchor xml:id="end0673006"/></p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0673a27" ed="T"/><l>此人於律則明了，<caesura/>佛說此人不依<anchor xml:id="nkr_note_orig_0673004" n="0673004"/><anchor xml:id="nkr_note_mod_0673004" n="0673004"/><anchor xml:id="beg0673004" n="0673004"/>他<anchor xml:id="end0673004"/>。</l></lg></rdg></app>
 <app from="#beg0665012" to="#end0665012"><lem wit="#wit.orig">二</lem><rdg resp="#resp2" wit="#wit1 #wit2"><space quantity="0"/></rdg></app>
 <app from="#beg0665013" to="#end0665013"><lem wit="#wit.orig">一卷</lem><rdg resp="#resp2" wit="#wit3"><space quantity="0"/></rdg></app>
 <app from="#beg0665014" to="#end0665014"><lem wit="#wit.orig">弗</lem><rdg resp="#resp2" wit="#wit1 #wit4 #wit3 #wit2">佛</rdg></app>

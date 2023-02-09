@@ -2145,6 +2145,7 @@
 <lb n="0939b13" ed="T"/>
 <lb n="0939b14" ed="T"/>
 <lb n="0939b15" ed="T"/>
+<anchor xml:id="Radich_app_2_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_2, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_2_end"/>
 <lb n="0939b16" ed="T"/><cb:div type="other"><cb:mulu n="3" level="1" type="其他">火<g ref="#CB00292">𤙖</g>儀軌音義</cb:mulu><head><anchor xml:id="nkr_note_orig_0939011" n="0939011"/>火<g ref="#CB00292">𤙖</g>儀軌音義</head>
 <lb n="0939b17" ed="T"/><p xml:id="pT18p0939b1701">的<note place="inline"><anchor xml:id="nkr_note_orig_0939012" n="0939012"/><anchor xml:id="nkr_note_mod_0939012" n="0939012"/><anchor xml:id="beg0939012" n="0939012"/>《韻會》：丁歷反。《說文》：明也。徐日光的然也。《增韻》：實也，又端也。又<anchor xml:id="end0939012"/>丁激反，遠貌明見也。亦的字，明也、曉也</note>。　脆<note place="inline">清歲
 <lb n="0939b18" ed="T"/>反，易折也。言香脆餅食者，是胡脆餅歟</note>。　著銜蒸作<note place="inline">蓋是<g ref="#CB03465">𩛞</g><g ref="#CB01367">𩜶</g>蒸餅等之類歟</note>。　柈<note place="inline">步干反，盤也</note>。
@@ -2157,7 +2158,14 @@
 <lb n="0939b25" ed="T"/>烟也</note>。　勃<note place="inline">蒲沒反，健也，盛也。上府芻褒屢，下賀鄔縷也</note>。　爆<note place="inline">博教、普角二反，謂皮散起也</note>。　吒<note place="inline">都嫁反，噴也。上
 <lb n="0939b26" ed="T"/>葩託銘驅，下曩樓</note>。　疇<note place="inline">真流類也</note>。　課<note place="inline">告臥反，誡也</note>。　秉<note place="inline">鄙直反，執也</note>。　類<note place="inline">力對反，絲節也</note>。　捏<note place="inline">乃結反，捺
 <lb n="0939b27" ed="T"/>搦也</note>。</p></cb:div>
-<lb n="0939b28" ed="T"/><cb:div type="w"><p xml:id="pT18p0939b2801"><anchor xml:id="nkr_note_orig_0939016" n="0939016"/>火壇有三：一安穩，二富饒，三除怨。初安穩，
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1  <lb n="0939b28" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit2"><p xml:id="pT18p0939b2801"><anchor xml:id="nkr_note_orig_0939016" n="0939016"/>火壇有三：一安穩，二富饒，三除怨。初安穩，
 <lb n="0939b29" ed="T"/>即於露地撩治一壇，中畫佛坐蓮花坐，壇
 <pb n="0939c" ed="T" xml:id="T18.0914.0939c"/>
 <lb n="0939c01" ed="T"/>四面畫般若菩薩、聲聞、佛慈愍菩薩。畫佛
@@ -2223,12 +2231,8 @@
 <lb n="0940b01" ed="T"/><p xml:id="pT18p0940b0101">若作安穩法者，用各月十五日、七日、三日、
 <lb n="0940b02" ed="T"/>十三日，如是等日並是鬼星日也。又日月
 <lb n="0940b03" ed="T"/>蝕時最為第一，二月、三月、十月、十一月作
-<lb n="0940b04" ed="T"/>富饒法，四月五月作降怨法。</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0940b04" ed="T"/>富饒法，四月五月作降怨法。</p></rdg></app>
+<app from="#Radich_app_2_start" to="#Radich_app_2_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1">唵翳呬翳呬摩訶沒馱埿波哩志儞毘惹薩埵摩伽里里都縛俱帝摩訶羅魔志比左儞都波波阿合奈囊可比也令比也那可那散娑婆</rdg></app>
 <app from="#beg0936036" to="#end0936036"><lem wit="#wit.orig">火吽軌別錄</lem><rdg resp="#resp2" wit="#wit1">火吽供養經法</rdg><rdg resp="#resp2" wit="#wit2"><space quantity="0"/></rdg></app>
 <app from="#beg0936037" to="#end0936037"><lem wit="#wit.orig">王</lem><rdg resp="#resp2" wit="#wit2"><space quantity="0"/></rdg></app>
 <app from="#beg0936039" to="#end0936039"><lem wit="#wit.orig">跢</lem><rdg resp="#resp2" wit="#wit2">哆</rdg></app>

@@ -257,8 +257,15 @@
 <lb n="0725c02" ed="T"/><p xml:id="pT17p0725c0201">沙門之法，解空得道，執此<anchor xml:id="nkr_note_orig_0725036" n="0725036"/><anchor xml:id="nkr_note_mod_0725036" n="0725036"/><anchor xml:id="beg0725036" n="0725036"/>惺<g ref="#CB00322">𡩺</g><anchor xml:id="end0725036"/>世間一切
 <lb n="0725c03" ed="T"/>眾生。諸比丘等！至心奉行。</p></cb:div>
 <lb n="0725c04" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor xml:id="nkr_note_orig_0725037" n="0725037"/><anchor xml:id="nkr_note_mod_0725037" n="0725037"/><anchor xml:id="beg0725037" n="0725037"/>得道梯橙錫杖經<anchor xml:id="end0725037"/></title></cb:jhead></cb:juan>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0725c05" ed="T"/>
-<lb n="0725c06" ed="T"/><cb:div type="w"><cb:mulu level="1" n="2" type="附文">又持錫杖法</cb:mulu><head><anchor type="circle"/><anchor xml:id="nkr_note_orig_0725038" n="0725038"/><anchor xml:id="nkr_note_mod_0725038" n="0725038"/><anchor xml:id="beg0725038" n="0725038"/>又<anchor xml:id="end0725038"/><anchor xml:id="nkr_note_rest_0725038" n="0725038"/>持錫杖法<note place="inline">依天竺藏經重出，使後人看閱，知其源流也</note></head>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0725c06" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit2 #wit3"><cb:mulu level="1" n="2" type="附文">又持錫杖法</cb:mulu><head><anchor type="circle"/><anchor xml:id="nkr_note_orig_0725038" n="0725038"/><anchor xml:id="nkr_note_mod_0725038" n="0725038"/><anchor xml:id="beg0725038" n="0725038"/>又<anchor xml:id="end0725038"/><anchor xml:id="nkr_note_rest_0725038" n="0725038"/>持錫杖法<note place="inline">依天竺藏經重出，使後人看閱，知其源流也</note></head>
 <lb n="0725c07" ed="T"/>
 <lb n="0725c08" ed="T"/><p xml:id="pT17p0725c0801">錫杖有二十五事威儀。持錫杖有二十五
 <lb n="0725c09" ed="T"/>事者：一者、為蛇蟲故。二者、為年老故。三者、
@@ -281,12 +288,7 @@
 <lb n="0726a01" ed="T"/>二十三者、遠請行宿應得暮杖。二十四者、
 <lb n="0726a02" ed="T"/>遠迎來者應得暮杖。二十五者、常當自近，
 <lb n="0726a03" ed="T"/>不得指人若畫地作字。</p>
-<lb n="0726a04" ed="T"/><p xml:id="pT17p0726a0401"><anchor xml:id="nkr_note_orig_0726001" n="0726001"/><anchor xml:id="nkr_note_mod_0726001" n="0726001"/><anchor xml:id="beg0726001" n="0726001"/>持錫杖法<anchor xml:id="end0726001"/></p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0726a04" ed="T"/><p xml:id="pT17p0726a0401"><anchor xml:id="nkr_note_orig_0726001" n="0726001"/><anchor xml:id="nkr_note_mod_0726001" n="0726001"/><anchor xml:id="beg0726001" n="0726001"/>持錫杖法<anchor xml:id="end0726001"/></p></rdg></app>
 <app from="#beg0724010" to="#end0724010"><lem wit="#wit.orig">橙</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">隥</rdg></app>
 <app from="#beg0724009" to="#end0724009"><lem wit="#wit.orig">得道梯<note n="0724010" resp="#resp2" type="orig" place="foot text">橙＝隥【三】</note><note n="0724010" resp="#resp1" type="mod">橙【大】，隥【宋】【元】【明】</note><app n="0724010"><lem wit="#wit.orig">橙</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">隥</rdg></app></lem><rdg resp="#resp2" wit="#wit4"><space quantity="0"/></rdg><rdg resp="#resp2" wit="#wit3">佛說得道梯橙</rdg></app>
 <app from="#beg0724011" to="#end0724011"><lem wit="#wit.orig">人名</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit4"><space quantity="0"/></rdg></app>

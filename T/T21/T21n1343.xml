@@ -709,7 +709,24 @@
 <lb n="0848c07" ed="T"/>修羅等。聞佛所說。歡喜奉行。</p>
 <lb n="0848c08" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>尊勝菩薩所問一切諸法入無<anchor xml:id="nkr_note_orig_0848010" n="0848010"/><anchor xml:id="nkr_note_mod_0848010" n="0848010"/><anchor xml:id="beg0848010" n="0848010"/>量<anchor xml:id="end0848010"/>陀羅尼<anchor xml:id="nkr_note_orig_0848011" n="0848011"/><anchor xml:id="nkr_note_mod_0848011" n="0848011"/><anchor xml:id="beg0848011" n="0848011"/>門<anchor xml:id="end0848011"/>
 <lb n="0848c09" ed="T"/><anchor xml:id="nkr_note_orig_0848012" n="0848012"/><anchor xml:id="nkr_note_mod_0848012" n="0848012"/><anchor xml:id="beg0848012" n="0848012"/>經<anchor xml:id="end0848012"/></cb:jhead></cb:juan></cb:div>
-<lb n="0848c10" ed="T"/><cb:div type="w"><p xml:id="pT21p0848c1001"><anchor xml:id="nkr_note_orig_0848013" n="0848013"/>爾時三千日月諸天王。諸龍王。諸阿須倫
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0848c10" ed="T"/><cb:div type="w"></cb:div> -->
+<lb n="0849c26" ed="T"/><cb:div type="w"><cb:div type="other"><head><anchor xml:id="nkr_note_orig_0849011" n="0849011"/>尊勝菩薩所問經譯師傳</head>
+<lb n="0849c27" ed="T"/><p xml:id="pT21p0849c2701">開元錄云。高齊之代。有居士萬天懿。本姓
+<lb n="0849c28" ed="T"/>拓<note place="inline">音托</note>跋氏。北岱雲中人也。魏分十姓。因
+<lb n="0849c29" ed="T"/>為萬<note place="inline">音木</note>俟<note place="inline">音其</note>氏。世居洛陽。故復為河南
+<pb n="0850a" xml:id="T21.1343.0850a" ed="T"/>
+<lb n="0850a01" ed="T"/>人<note place="inline">題云天竺者非</note>。後單稱萬氏焉。懿少曾出家。師婆
+<lb n="0850a02" ed="T"/>羅門。而聰慧有志力。善梵書梵語。兼工呪術。
+<lb n="0850a03" ed="T"/>由是應召得預翻傳之數。以武成帝湛河清
+<lb n="0850a04" ed="T"/>年中。於鄴都自譯尊勝菩薩所問經一部。廣
+<lb n="0850a05" ed="T"/>行於世矣<note place="inline">與無崖際持經同本</note>。</p></cb:div></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit.orig"><p xml:id="pT21p0848c1001"><anchor xml:id="nkr_note_orig_0848013" n="0848013"/>爾時三千日月諸天王。諸龍王。諸阿須倫
 <lb n="0848c11" ed="T"/>王。主天地大鬼神及天魔王。火神王山神王
 <lb n="0848c12" ed="T"/>樹神王諸神王。即於佛前叉手作禮。奉行誦
 <lb n="0848c13" ed="T"/>此呪者。我日日往供養。便不橫死。一切諸惡
@@ -814,22 +831,7 @@
 <lb n="0849c22" ed="T"/><p xml:id="pT21p0849c2201">過去無量諸佛所說。未來彌勒賢劫菩薩亦
 <lb n="0849c23" ed="T"/>當宣說。善治四大增損。亦治心內四百四病。
 <lb n="0849c24" ed="T"/>亦治業障犯戒諸惡永盡。</p><p xml:id="pT21p0849c2411" cb:place="inline">尊勝菩薩陀羅尼經
-<lb n="0849c25" ed="T"/>一卷。</p></cb:div>
-<lb n="0849c26" ed="T"/><cb:div type="w"><cb:div type="other"><head><anchor xml:id="nkr_note_orig_0849011" n="0849011"/>尊勝菩薩所問經譯師傳</head>
-<lb n="0849c27" ed="T"/><p xml:id="pT21p0849c2701">開元錄云。高齊之代。有居士萬天懿。本姓
-<lb n="0849c28" ed="T"/>拓<note place="inline">音托</note>跋氏。北岱雲中人也。魏分十姓。因
-<lb n="0849c29" ed="T"/>為萬<note place="inline">音木</note>俟<note place="inline">音其</note>氏。世居洛陽。故復為河南
-<pb n="0850a" xml:id="T21.1343.0850a" ed="T"/>
-<lb n="0850a01" ed="T"/>人<note place="inline">題云天竺者非</note>。後單稱萬氏焉。懿少曾出家。師婆
-<lb n="0850a02" ed="T"/>羅門。而聰慧有志力。善梵書梵語。兼工呪術。
-<lb n="0850a03" ed="T"/>由是應召得預翻傳之數。以武成帝湛河清
-<lb n="0850a04" ed="T"/>年中。於鄴都自譯尊勝菩薩所問經一部。廣
-<lb n="0850a05" ed="T"/>行於世矣<note place="inline">與無崖際持經同本</note>。</p></cb:div></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0849c25" ed="T"/>一卷。</p></rdg></app>
 <app from="#beg0843008" to="#end0843008"><lem wit="#wit.orig">量</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">量法</rdg></app>
 <app from="#beg0843009" to="#end0843009"><lem wit="#wit.orig">經</lem><rdg resp="#resp2" wit="#wit2">經一卷</rdg></app>
 <app from="#beg0843010" to="#end0843010"><lem wit="#wit.orig">北齊</lem><rdg resp="#resp2" wit="#wit1">高齊天竺</rdg><rdg resp="#resp2" wit="#wit2 #wit3">高齊河南</rdg></app>

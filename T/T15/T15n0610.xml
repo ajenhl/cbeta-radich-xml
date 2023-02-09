@@ -250,7 +250,14 @@
 <lb n="0240b11" ed="T"/><l>腐身為不實，<caesura/>多因緣以成，</l>
 <lb n="0240b12" ed="T"/><l>大<anchor xml:id="nkr_note_orig_0240014" n="0240014"/><anchor xml:id="nkr_note_mod_0240014" n="0240014"/><anchor xml:id="beg0240014" n="0240014"/>耶<anchor xml:id="end0240014"/>以為<anchor xml:id="nkr_note_orig_0240015" n="0240015"/><anchor xml:id="nkr_note_mod_0240015" n="0240015"/>軀。</l></lg></cb:div>
 <lb n="0240b13" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title><anchor xml:id="beg_4" type="star"/>佛說<anchor xml:id="end_4"/>內身觀章句<anchor xml:id="nkr_note_orig_0240016" n="0240016"/><anchor xml:id="nkr_note_mod_0240016" n="0240016"/><anchor xml:id="beg0240016" n="0240016"/>經<anchor xml:id="end0240016"/></title></cb:jhead></cb:juan>
-<lb n="0240b14" ed="T"/><cb:div type="w"><head>十一因緣章</head>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0240b14" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3 #wit34"><head>十一因緣章</head>
 <lb n="0240b15" ed="T"/><p xml:id="pT15p0240b1501">佛言：「行者有十一因緣，滅道制令<anchor xml:id="nkr_note_orig_0240017" n="0240017"/><anchor xml:id="nkr_note_mod_0240017" n="0240017"/><anchor xml:id="beg0240017" n="0240017"/>人<anchor xml:id="end0240017"/>不
 <lb n="0240b16" ed="T"/>墮<anchor xml:id="nkr_note_orig_0240018" n="0240018"/><anchor xml:id="nkr_note_mod_0240018" n="0240018"/><anchor xml:id="beg0240018" n="0240018"/>惡<anchor xml:id="end0240018"/>道，當不識者，謂萬物。一為大會，謂
 <lb n="0240b17" ed="T"/>人眾；二者多食，謂諸美，亦謂過飽；三者為
@@ -258,12 +265,7 @@
 <lb n="0240b19" ed="T"/>睡眠；六為會聚，謂禪中；七為習行，謂多事；
 <lb n="0240b20" ed="T"/>八為愛身；九為輕，謂非法語；十為貪，謂多
 <lb n="0240b21" ed="T"/>欲；十一為不好善處居，謂惡人中。行道者
-<lb n="0240b22" ed="T"/>當斷是十一因緣，得道疾。」</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0240b22" ed="T"/>當斷是十一因緣，得道疾。」</p></rdg></app>
 <app from="#beg0239002" to="#end0239002"><lem wit="#wit.orig">佛說</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3 #wit4"><space quantity="0"/></rdg></app>
 <app from="#beg0239003" to="#end0239003"><lem wit="#wit.orig">經</lem><rdg resp="#resp2" wit="#wit4">經一卷</rdg></app>
 <app cb:word-count="8" from="#beg0239004" to="#end0239004"><lem wit="#wit.orig">失譯人名在後漢錄</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit4">漢失譯</rdg><rdg resp="#resp2" wit="#wit3">漢失譯師名</rdg></app>

@@ -214,8 +214,16 @@
 <lb n="0325a22" ed="T"/><p xml:id="pT21p0325a2201">件法天法國於菩提寺所傳也。其調度不多
 <lb n="0325a23" ed="T"/>類。時人皆號驗法焉。</p>
 <lb n="0325a24" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>聖天式法一卷</cb:jhead></cb:juan></cb:div>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0325a25" ed="T"/><cb:div type="w"><p xml:id="pT21p0325a2501"><note place="inline">附</note></p>
-<lb n="0325a26" ed="T"/><p xml:id="pT21p0325a2601">同天次第一卷</p>
+<!-- original content here now handled by the rdg element in Radich_app_1 -->
+<lb n="0325b24" ed="T"/><p xml:id="pT21p0325b2401">　　　　　　　　一交了　興然之本</p></cb:div>
+</body>
+<back>
+<cb:div type="taisho-notes">
+<head>大正 校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.orig #wit.cbeta"><lb n="0325a26" ed="T"/><p xml:id="pT21p0325a2601">同天次第一卷</p>
 <lb n="0325a27" ed="T"/><p xml:id="pT21p0325a2701">先淨三業印真言　次護身真言印　次向建
 <lb n="0325a28" ed="T"/>受三度建吞之　次天鼓三七返　次向本尊
 <lb n="0325a29" ed="T"/>禮三返　次著座　次塗香淨手　次加持灑
@@ -242,13 +250,7 @@
 <lb n="0325b20" ed="T"/>香　次花塗燒飲燈　次普供養　次祈願
 <lb n="0325b21" ed="T"/>　次閼伽　次迴向　次結界　次奉送　次三
 <lb n="0325b22" ed="T"/>部護身印明　次出堂</p>
-<lb n="0325b23" ed="T"/><p xml:id="pT21p0325b2301">聖天次第一卷</p>
-<lb n="0325b24" ed="T"/><p xml:id="pT21p0325b2401">　　　　　　　　一交了　興然之本</p></cb:div>
-</body>
-<back>
-<cb:div type="taisho-notes">
-<head>大正 校註</head>
-<p>
+<lb n="0325b23" ed="T"/><p xml:id="pT21p0325b2301">聖天次第一卷</p></rdg></app>
 <note n="0324001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0324001">【原】東寺寶菩提院三密藏藏本</note>
 </p>
 </cb:div>

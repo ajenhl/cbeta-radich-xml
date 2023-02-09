@@ -301,20 +301,25 @@
 <lb n="0161b01" ed="T"/>法已。大眾倍加悲喜。及諸天龍大鬼神等。各
 <lb n="0161b02" ed="T"/>奉聖言禮足而去。</p></cb:div>
 <lb n="0161b03" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>穢跡金剛<anchor xml:id="nkr_note_orig_0161005" n="0161005"/><anchor xml:id="nkr_note_mod_0161005" n="0161005"/><anchor xml:id="beg0161005" n="0161005"/>禁<anchor xml:id="end0161005"/>百<anchor xml:id="nkr_note_orig_0161006" n="0161006"/><anchor xml:id="nkr_note_mod_0161006" n="0161006"/><anchor xml:id="beg0161006" n="0161006"/>變<anchor xml:id="end0161006"/>經</title><anchor xml:id="nkr_note_orig_0161007" n="0161007"/><anchor xml:id="nkr_note_mod_0161007" n="0161007"/><anchor xml:id="beg0161007" n="0161007"/>一卷<anchor xml:id="end0161007"/></cb:jhead></cb:juan></cb:div>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<anchor xml:id="Radich_app_2_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_2, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_2_end"/>
 <lb n="0161b04" ed="T"/><cb:div type="w"><anchor xml:id="nkr_note_orig_0161008" n="0161008"/><anchor xml:id="nkr_note_mod_0161008" n="0161008"/><anchor xml:id="beg0161008" n="0161008"/><p xml:id="pT21p0161b0401"><note place="inline">古經本呪四十三字。唐太宗朝人多持誦感驗非一。除去十字今就錄出。速獲靈應無過是呪</note>。</p>
-<lb n="0161b05" ed="T"/><p xml:id="pT21p0161b0501">唵<g ref="#CB03117">𠲽</g>咶　啒<g ref="#CB03116">㖀</g>摩訶般囉<note place="inline">二合</note>　很那<g ref="#CB04237">𠵨</g>　吻汁
-<lb n="0161b06" ed="T"/>吻　（醯）（摩）（尼）<g ref="#CB03521">𡀎</g>咭<g ref="#CB03521">𡀎</g>　摩那棲（唵）（斫）（急）
-<lb n="0161b07" ed="T"/>（那）烏深暮　啒<g ref="#CB03116">㖀</g>吽吽（吽）泮泮泮（泮）（泮）娑
-<lb n="0161b08" ed="T"/>訶</p><anchor xml:id="end0161008"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 -->
 <lb n="0161b09" ed="T"/><p xml:id="pT21p0161b0901"><note place="inline">真覺彈師所傳神呪。與今經呪同。但梵音賖切字語少異</note>。</p>
-<lb n="0161b10" ed="T"/><p xml:id="pT21p0161b1001">唵佛<g ref="#CB01219">㖃</g>窟聿　摩訶般那很那詡　吻泮吻
-<lb n="0161b11" ed="T"/>　尾劼尾　摩那棲　烏澁謨　窟聿吽吽吽
-<lb n="0161b12" ed="T"/>　發發發　莎訶<anchor xml:id="nkr_note_orig_0161009" n="0161009"/></p></cb:div>
+<!-- original content here now handled by the rdg element in Radich_app_2 -->
+</cb:div>
 </body>
 <back>
 <cb:div type="apparatus">
 <head>校註</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.orig"><lb n="0161b05" ed="T"/><p xml:id="pT21p0161b0501">唵<g ref="#CB03117">𠲽</g>咶　啒<g ref="#CB03116">㖀</g>摩訶般囉<note place="inline">二合</note>　很那<g ref="#CB04237">𠵨</g>　吻汁
+<lb n="0161b06" ed="T"/>吻　（醯）（摩）（尼）<g ref="#CB03521">𡀎</g>咭<g ref="#CB03521">𡀎</g>　摩那棲（唵）（斫）（急）
+<lb n="0161b07" ed="T"/>（那）烏深暮　啒<g ref="#CB03116">㖀</g>吽吽（吽）泮泮泮（泮）（泮）娑
+<lb n="0161b08" ed="T"/>訶</p><anchor xml:id="end0161008"/></rdg></app>
+<app from="#Radich_app_2_start" to="#Radich_app_2_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.orig"><lb n="0161b10" ed="T"/><p xml:id="pT21p0161b1001">唵佛<g ref="#CB01219">㖃</g>窟聿　摩訶般那很那詡　吻泮吻
+<lb n="0161b11" ed="T"/>　尾劼尾　摩那棲　烏澁謨　窟聿吽吽吽
+<lb n="0161b12" ed="T"/>　發發發　莎訶<anchor xml:id="nkr_note_orig_0161009" n="0161009"/></p></rdg></app>
 <app from="#beg0159023" to="#end0159023"><lem wit="#wit.orig">禁</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3 #wit4">法禁</rdg></app>
 <app from="#beg0159024" to="#end0159024"><lem wit="#wit.orig">法</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3 #wit4">法門</rdg></app>
 <app from="#beg0159025" to="#end0159025"><lem wit="#wit.orig">經</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>

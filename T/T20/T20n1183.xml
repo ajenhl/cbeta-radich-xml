@@ -831,6 +831,7 @@
 <lb n="0783c10" ed="T"/>威德光明不思議力。難可度量。念誦成就者
 <lb n="0783c11" ed="T"/>除不至心。</p>
 <lb n="0783c12" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>一髻文殊童子速成就無盡寶藏經</cb:jhead></cb:juan></cb:div>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0783c13" ed="T"/><cb:div type="w"><p xml:id="pT20p0783c1301">此經上元元年九月十八日。婆羅門嚩日
 <lb n="0783c14" ed="T"/>羅<note place="inline">二合</note>麼拏庾灑<note place="inline">二合</note>唐云金剛福壽。於秦
 <lb n="0783c15" ed="T"/>州開元寺輪寺三院□□□□貞元十七年
@@ -843,7 +844,16 @@
 <lb n="0783c22" ed="T"/>來智母大日如來同體別身也身在法界一
 <lb n="0783c23" ed="T"/>照三世眾聖之母一切慈母發菩提心者為
 <lb n="0783c24" ed="T"/>證果之依處源本者也。</p>
-<lb n="0783c25" ed="T"/><p xml:id="pT20p0783c2501">文殊慈護真言</p>
+<!-- original content here now handled by the rdg element in Radich_app_1 -->
+<lb n="0784a18" ed="T"/><p xml:id="pT20p0784a1801">康和三年三月七日書了　　賢覺</p>
+<lb n="0784a19" ed="T"/><p xml:id="pT20p0784a1901">右奉為先妣尊靈出離生死往生極樂也</p>
+<lb n="0784a20" ed="T"/><p xml:id="pT20p0784a2001">　　　一校了　以座主御房御本也</p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit.orig"><lb n="0783c25" ed="T"/><p xml:id="pT20p0783c2501">文殊慈護真言</p>
 <lb n="0783c26" ed="T"/><p cb:type="dharani" xml:id="pT20p0783c2601">唵沒馱昧怛哩<note place="inline">引</note>耶乞灑<note place="inline">二合</note>憾<note place="inline">犯土之所可誦也</note></p>
 <lb n="0783c27" ed="T"/><p xml:id="pT20p0783c2701">文殊師利忿怒陀羅尼</p>
 <lb n="0783c28" ed="T"/><p cb:type="dharani" xml:id="pT20p0783c2801">唵嚩日羅底乞叉拏<note place="inline">三合</note>俱盧<note place="inline">二合</note>馱瞋那瞋
@@ -865,15 +875,7 @@
 <lb n="0784a14" ed="T"/>行成就如來。無憂最勝吉祥王如來。法海
 <lb n="0784a15" ed="T"/>勝<anchor xml:id="nkr_note_add_0784a1501" n="0784a1501"/><anchor xml:id="beg0784a1501" n="0784a1501"/>慧<anchor xml:id="end0784a1501"/>遊戲神通如來。藥師瑠璃光如來。</p>
 <lb n="0784a16" ed="T"/><p xml:id="pT20p0784a1601">藥叉呪</p>
-<lb n="0784a17" ed="T"/><p cb:type="dharani" xml:id="pT20p0784a1701">唵<note place="inline">一</note>俱毘羅<note place="inline">二</note>莎訶</p>
-<lb n="0784a18" ed="T"/><p xml:id="pT20p0784a1801">康和三年三月七日書了　　賢覺</p>
-<lb n="0784a19" ed="T"/><p xml:id="pT20p0784a1901">右奉為先妣尊靈出離生死往生極樂也</p>
-<lb n="0784a20" ed="T"/><p xml:id="pT20p0784a2001">　　　一校了　以座主御房御本也</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb n="0784a17" ed="T"/><p cb:type="dharani" xml:id="pT20p0784a1701">唵<note place="inline">一</note>俱毘羅<note place="inline">二</note>莎訶</p></rdg></app>
 <app cb:word-count="12" from="#beg0782008" to="#end0782008"><lem wit="#wit.orig">指掌向<lb n="0782c08" ed="T"/>外垂下五指作滿願印</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">執楊柳枝</rdg></app>
 <app from="#beg0783001" to="#end0783001"><lem wit="#wit.orig">求</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">於</rdg></app>
 <app from="#beg0783002" to="#end0783002"><lem wit="#wit.orig">形</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">體</rdg></app>

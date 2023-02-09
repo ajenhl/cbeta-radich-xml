@@ -1082,14 +1082,10 @@
 <lb n="0022c09" ed="T"/>受已後。常隨行者所使必得隨順。乃至使往
 <lb n="0022c10" ed="T"/>天上取天女。即將來所須飲食齒木水等。皆
 <lb n="0022c11" ed="T"/>得給侍。</p></cb:div>
-<lb n="0022c12" ed="T"/><cb:juan n="003" fun="close"><cb:jhead>底哩三昧耶無動尊聖者念誦祕密法卷下</cb:jhead></cb:juan>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<lb n="0022c12" ed="T"/><cb:juan n="003" fun="close"><cb:jhead>底哩三昧耶無動尊聖者念誦祕密法卷下</cb:jhead></cb:juan><cb:div type="w">
 <lb n="0022c13" ed="T"/>
-<lb n="0022c14" ed="T"/><cb:div type="w"><p xml:id="pT21p0022c1401">復次如前建立曼荼羅。應取一千蓮華。一
-<lb n="0022c15" ed="T"/>華一誦安中台以為奉獻。然後引弟子。入
-<lb n="0022c16" ed="T"/>告三昧耶言<note place="inline">為諸欲清淨誓</note>羯磨曼荼羅品。</p>
-<lb n="0022c17" ed="T"/><p xml:id="pT21p0022c1701">復次成就像法。於清淨絹<g ref="#CB00626">㲲</g>上畫觀自在
-<lb n="0022c18" ed="T"/>菩薩。堅蘇彌盧頂八佛圍遶白月一日於
-<lb n="0022c19" ed="T"/>此像前。</p>
+<!-- original content here now handled by the rdg element in Radich_app_1 -->
 <lb n="0022c20" ed="T"/><p xml:id="pT21p0022c2001">延享三丙寅年秋七月。再校了同臘月
 <lb n="0022c21" ed="T"/>上旬彫刻成</p>
 <lb n="0022c22" ed="T"/><p xml:id="pT21p0022c2201">　　　　　　豐山長谷輪下無等誌</p></cb:div>
@@ -1098,6 +1094,12 @@
 <cb:div type="apparatus">
 <head>校註</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.cbeta #wit2 #wit3  #wit.orig"><lb n="0022c14" ed="T"/><p xml:id="pT21p0022c1401">復次如前建立曼荼羅。應取一千蓮華。一
+<lb n="0022c15" ed="T"/>華一誦安中台以為奉獻。然後引弟子。入
+<lb n="0022c16" ed="T"/>告三昧耶言<note place="inline">為諸欲清淨誓</note>羯磨曼荼羅品。</p>
+<lb n="0022c17" ed="T"/><p xml:id="pT21p0022c1701">復次成就像法。於清淨絹<g ref="#CB00626">㲲</g>上畫觀自在
+<lb n="0022c18" ed="T"/>菩薩。堅蘇彌盧頂八佛圍遶白月一日於
+<lb n="0022c19" ed="T"/>此像前。</p></rdg></app>
 <app from="#beg0013007" to="#end0013007"><lem wit="#wit.orig">為</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">與</rdg></app>
 <app from="#beg0013008" to="#end0013008"><lem wit="#wit.orig">故</lem><rdg resp="#resp2" wit="#wit2" type="variantRemark">於</rdg></app>
 <app from="#beg0013009" to="#end0013009"><lem wit="#wit.orig">相</lem><rdg resp="#resp2" wit="#wit2" type="variantRemark">之</rdg></app>

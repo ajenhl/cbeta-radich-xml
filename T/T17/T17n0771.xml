@@ -110,14 +110,23 @@
 <lb n="0708a10" ed="T"/>四品之法，長離三惡道，展轉天上，下生人中
 <lb n="0708a11" ed="T"/>豪尊，世世受福，<anchor xml:id="nkr_note_orig_0708005" n="0708005"/><anchor xml:id="nkr_note_mod_0708005" n="0708005"/><anchor xml:id="beg0708005" n="0708005"/>德<anchor xml:id="end0708005"/>長解脫。<anchor xml:id="nkr_note_orig_0708006" n="0708006"/></p></cb:div>
 <lb n="0708a12" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><title>四品學法<anchor xml:id="beg_1" type="star"/>經<anchor xml:id="end_1"/></title></cb:jhead></cb:juan>
-<lb n="0708a13" ed="T"/><cb:div type="w"><p xml:id="pT17p0708a1301">若失威儀一事者，<anchor xml:id="nkr_note_orig_0708007" n="0708007"/><anchor xml:id="nkr_note_mod_0708007" n="0708007"/><anchor xml:id="beg0708007" n="0708007"/>常<anchor xml:id="end0708007"/>自學如法，應時自
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<anchor xml:id="Radich_app_2_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_2, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_2_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0708a13" ed="T"/><cb:div type="w"></cb:div> -->
+<!-- original content here now handled by the rdg element in Radich_app_2 <lb n="0708a20" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3 #wit4"><p xml:id="pT17p0708a1301">若失威儀一事者，<anchor xml:id="nkr_note_orig_0708007" n="0708007"/><anchor xml:id="nkr_note_mod_0708007" n="0708007"/><anchor xml:id="beg0708007" n="0708007"/>常<anchor xml:id="end0708007"/>自學如法，應時自
 <lb n="0708a14" ed="T"/>赴誡誨即解。若懈怠不勤者，應退著下座，
 <lb n="0708a15" ed="T"/>後有功德乃更復之；若受語不用及犯戒
 <lb n="0708a16" ed="T"/>者，應便彈棄莫著眾中，恐敗餘人；若新受
 <lb ed="T" n="0708a17"/>法未滿三月者，其有所犯，先不應問也，未
 <lb n="0708a18" ed="T"/>習故也。若諸學者，承用此律，上下相檢，乃
-<lb ed="T" n="0708a19"/>可至竟，疾成大願。</p></cb:div>
-<lb n="0708a20" ed="T"/><cb:div type="w"><cb:mulu n="3" level="1" type="附文">散侍法</cb:mulu><head>散侍法</head>
+<lb ed="T" n="0708a19"/>可至竟，疾成大願。</p></rdg></app>
+<app from="#Radich_app_2_start" to="#Radich_app_2_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3 #wit4"><cb:mulu n="3" level="1" type="附文">散侍法</cb:mulu><head>散侍法</head>
 <lb ed="T" n="0708a21"/><p xml:id="pT17p0708a2101">問曰：「若有善男子，欲入正道，欲依大道而
 <lb n="0708a22" ed="T"/>不耐戒，當作何行以求福祥？」</p><p xml:id="pT17p0708a2212" cb:place="inline">師曰：「亦有
 <lb n="0708a23" ed="T"/>三事，名散侍法，好可奉。何謂三？一者、身所
@@ -138,12 +147,7 @@
 <lb ed="T" n="0708b08"/>未即度，猶如地多石多草，種雖不好故得
 <lb ed="T" n="0708b09"/>少少，以續其時，猶勝不種也。種業不廢，會
 <lb n="0708b10" ed="T"/>得好地，所種乃成，收歛有盈；斯亦然矣！行
-<lb ed="T" n="0708b11"/>之不休，福德扶持，會受真戒號。」</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校註</head>
-<p>
+<lb ed="T" n="0708b11"/>之不休，福德扶持，會受真戒號。」</p></rdg></app>
 <app from="#beg0707018" to="#end0707018"><lem wit="#wit.orig">經</lem><rdg wit="#wit1 #wit2 #wit3" resp="#resp2">一卷</rdg><rdg resp="#resp2" wit="#wit4"><space quantity="0"/></rdg></app>
 <app from="#beg0707019" to="#end0707019"><lem wit="#wit.orig">宋天竺三藏求那跋陀羅譯</lem><rdg wit="#wit1 #wit2 #wit3" resp="#resp2">宋文帝代求那跋陀羅於楊都譯</rdg><rdg wit="#wit4" resp="#resp2">宋求那跋陀羅譯</rdg></app>
 <app from="#beg0707020" to="#end0707020"><lem wit="#wit.orig">純</lem><rdg wit="#wit1 #wit2 #wit4 #wit3" resp="#resp2">純行</rdg></app>
