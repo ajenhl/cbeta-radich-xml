@@ -179,7 +179,14 @@
 <lb n="0746b06" ed="T"/><l>恒用戒香塗瑩體，<caesura/>常持定服以資身，</l>
 <lb n="0746b07" ed="T"/><l>菩提妙華遍莊嚴，<caesura/>隨所住處常安樂。</l></lg></cb:div>
 <lb n="0746b08" ed="T"/><cb:juan n="001" fun="close"><cb:jhead><anchor xml:id="nkr_note_orig_0746010" n="0746010"/><anchor xml:id="nkr_note_mod_0746010" n="0746010"/><anchor xml:id="beg0746010" n="0746010"/><title>佛說無常經</title><anchor xml:id="end0746010"/></cb:jhead></cb:juan>
-<lb n="0746b09" ed="T"/><cb:div type="w"><p xml:id="pT17p0746b0901"><anchor xml:id="nkr_note_orig_0746011" n="0746011"/>若苾芻、苾芻尼，若鄔波索迦、鄔波斯迦，若
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0746b09" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3 #wit4"><p xml:id="pT17p0746b0901"><anchor xml:id="nkr_note_orig_0746011" n="0746011"/>若苾芻、苾芻尼，若鄔波索迦、鄔波斯迦，若
 <lb n="0746b10" ed="T"/>見有人將欲命終，身心苦痛。應起慈心，拔
 <lb n="0746b11" ed="T"/>濟饒益。教使香湯澡浴清淨，著新淨衣，安
 <lb n="0746b12" ed="T"/><anchor xml:id="nkr_note_orig_0746012" n="0746012"/><anchor xml:id="nkr_note_mod_0746012" n="0746012"/><anchor xml:id="beg0746012" n="0746012"/>詳<anchor xml:id="end0746012"/>而坐，正念思惟。若病之人自無力者，餘
@@ -245,12 +252,7 @@
 <lb n="0747a12" ed="T"/>進入初地。遊歷十方，供養諸佛，聽受正法，
 <lb n="0747a13" ed="T"/>漸漸修集無邊福慧。畢當證得無上菩提，
 <lb n="0747a14" ed="T"/>轉正法輪度無央眾，趣大圓寂成最正覺。</p>
-<lb n="0747a15" ed="T"/><p xml:id="pT17p0747a1501"><anchor xml:id="nkr_note_orig_0747001" n="0747001"/><anchor xml:id="nkr_note_mod_0747001" n="0747001"/><anchor xml:id="beg0747001" n="0747001"/>臨終方訣<anchor xml:id="end0747001"/></p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
+<lb n="0747a15" ed="T"/><p xml:id="pT17p0747a1501"><anchor xml:id="nkr_note_orig_0747001" n="0747001"/><anchor xml:id="nkr_note_mod_0747001" n="0747001"/><anchor xml:id="beg0747001" n="0747001"/>臨終方訣<anchor xml:id="end0747001"/></p></rdg></app>
 <app from="#beg0745005" to="#end0745005"><lem wit="#wit.orig"><note place="inline">亦名三啟經</note></lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3"><space quantity="0"/></rdg><rdg resp="#resp2" wit="#wit4"><note place="inline">臨終方訣附</note></rdg></app>
 <app from="#beg0745006" to="#end0745006"><lem wit="#wit.orig">大</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit4 #wit3"><space quantity="0"/></rdg></app>
 <app from="#beg0745007" to="#end0745007"><lem wit="#wit.orig">義靜</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit4 #wit3">義淨</rdg></app>

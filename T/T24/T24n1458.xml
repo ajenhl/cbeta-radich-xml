@@ -7700,7 +7700,16 @@
 <lb n="0604b22" ed="T"/><byline cb:type="author">尊者勝友集</byline>
 <lb n="0604b23" ed="T"/><byline cb:type="Translator">三藏法師義淨奉　制譯</byline>
 <lb n="0604b24" ed="T"/><cb:div type="other"><cb:div type="other"><cb:mulu level="2" n="1" type="其他">第四部</cb:mulu><cb:div type="other"><cb:mulu level="3" n="1" type="其他">1 四波底羅提舍尼法</cb:mulu><head><anchor type="circle"/><anchor xml:id="nkr_note_orig_0604013" n="0604013"/><anchor xml:id="nkr_note_mod_0604013" n="0604013"/>第四部四波<anchor xml:id="nkr_note_orig_0604014" n="0604014"/><anchor xml:id="nkr_note_mod_0604014" n="0604014"/><anchor xml:id="beg0604014" n="0604014"/>羅底<anchor xml:id="end0604014"/>提舍尼法</head>
-<lb n="0604b25" ed="T"/><p xml:id="pT24p0604b2501">攝頌曰：</p>
+<anchor xml:id="Radich_app_1_start"/><!-- original content here now handled by the lem element in Radich_app_1 --><anchor xml:id="Radich_app_1_end"/></cb:div></cb:div>
+<lb n="0610b19" ed="T"/><cb:juan n="014" fun="close"><cb:jhead><title>根本薩婆多部律攝</title>卷第十四</cb:jhead></cb:juan>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0610b20" ed="T"/><cb:div type="w"></cb:div> </cb:div> </cb:div> -->
+</cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><lb n="0604b25" ed="T"/><p xml:id="pT24p0604b2501">攝頌曰：</p>
 <lb n="0604b26" ed="T"/><lg type="regular" xml:id="lgT24p0604b2601"><l>非<anchor xml:id="nkr_note_orig_0604015" n="0604015"/><anchor xml:id="nkr_note_mod_0604015" n="0604015"/><anchor xml:id="beg0604015" n="0604015"/>親<anchor xml:id="end0604015"/>尼自受，<caesura/>舍中處分食，</l>
 <lb n="0604b27" ed="T"/><l>不請向學家，<caesura/>受食於寺外。</l></lg>
 <lb n="0604b28" ed="T"/><cb:div type="other"><cb:mulu level="4" n="1" type="其他">1 從非親尼受食學處</cb:mulu><head>從非親尼受食學處第一</head>
@@ -7805,7 +7814,7 @@
 <lb n="0605c07" ed="T"/>若所居方地，星辰道路咸應善知。行人來往
 <lb n="0605c08" ed="T"/>隨力供給。乾<g ref="#CB00595">󰉓</g>及水量時貯畜。若見客至應
 <lb n="0605c09" ed="T"/>唱善來，含笑先言不應嚬蹙。若女人。來隨其
-<lb n="0605c10" ed="T"/>年幾作母女姊妹等想，餘文可知。<anchor xml:id="nkr_note_orig_0605007" n="0605007"/><anchor xml:id="nkr_note_mod_0605007" n="0605007"/><anchor type="circle"/></p></cb:div></cb:div></cb:div></cb:div>
+<lb n="0605c10" ed="T"/>年幾作母女姊妹等想，餘文可知。<anchor xml:id="nkr_note_orig_0605007" n="0605007"/><anchor xml:id="nkr_note_mod_0605007" n="0605007"/><anchor type="circle"/></p>  </cb:div><!-- </cb:div></cb:div></cb:div> -->
 <lb n="0605c11" ed="T"/><cb:div type="other"><cb:div type="other"><cb:mulu level="2" n="1" type="其他">第五部</cb:mulu><cb:div type="other"><cb:mulu level="3" n="1" type="其他">1 眾學法</cb:mulu><head>第五部眾學法</head>
 <lb n="0605c12" ed="T"/><p xml:id="pT24p0605c1201">總攝頌曰：</p>
 <lb n="0605c13" ed="T"/><lg type="regular" xml:id="lgT24p0605c1301"><l>衣食形齊整，<caesura/>俗舍善容儀，</l>
@@ -8233,9 +8242,7 @@
 <lb n="0610b15" ed="T"/>惱海盡苦邊際證妙菩提。次有二頌亦是結
 <lb n="0610b16" ed="T"/>集所置：初序勸誡作長淨意，護戒慇懃寧死
 <lb n="0610b17" ed="T"/>不犯，如<g ref="#CB01738">𤛆</g>牛愛尾不顧身命。次明所為福業
-<lb n="0610b18" ed="T"/>迴施有情，廣利無邊俱成佛果。</p></cb:div></cb:div></cb:div>
-<lb n="0610b19" ed="T"/><cb:juan n="014" fun="close"><cb:jhead><title>根本薩婆多部律攝</title>卷第十四</cb:jhead></cb:juan>
-<lb n="0610b20" ed="T"/><cb:div type="w"><head><anchor xml:id="nkr_note_orig_0610001" n="0610001"/>四波羅底提舍尼法</head>
+<lb n="0610b18" ed="T"/>迴施有情，廣利無邊俱成佛果。</p></cb:div></cb:div></cb:div></lem><rdg wit="#wit1 #wit2 #wit3 #wit4"><head><anchor xml:id="nkr_note_orig_0610001" n="0610001"/>四波羅底提舍尼法</head>
 <lb n="0610b21" ed="T"/><p xml:id="pT24p0610b2101">攝頌曰：</p>
 <lb n="0610b22" ed="T"/><lg type="regular" xml:id="lgT24p0610b2201"><l>非親尼自受，<caesura/>舍中處分食，</l>
 <lb n="0610b23" ed="T"/><l>不請向學家，<caesura/>受食於寺外。</l></lg>
@@ -8841,12 +8848,7 @@
 <lb n="0617a23" ed="T"/>苦邊際，證妙菩提。次有三頌亦是結集所
 <lb n="0617a24" ed="T"/>置。初序勸誡作長淨意，護戒殷勤寧死不
 <lb n="0617a25" ed="T"/>犯，如<anchor xml:id="nkr_note_add_0617a2501" n="0617a2501"/><anchor xml:id="beg0617a2501" n="0617a2501"/>犛<anchor xml:id="end0617a2501"/>牛愛尾不顧身命。次明所為福業
-<lb n="0617a26" ed="T"/>迴施有情，廣利無邊俱成佛果。</p></cb:div></cb:div></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
+<lb n="0617a26" ed="T"/>迴施有情，廣利無邊俱成佛果。</p></cb:div></cb:div> </rdg></app>
 <app from="#beg0525001" to="#end0525001"><lem wit="#wit.orig">集</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3 #wit4">造</rdg></app>
 <app from="#beg0525002" to="#end0525002"><lem wit="#wit.orig">三</lem><rdg resp="#resp2" wit="#wit3">唐三</rdg></app>
 <app from="#beg0525003" to="#end0525003"><lem wit="#wit.orig">照利</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3 #wit4">耀朗</rdg></app>

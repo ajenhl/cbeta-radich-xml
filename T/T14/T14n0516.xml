@@ -115,7 +115,7 @@
 <lb ed="T" n="0789a26"/>即乘寶車，與諸臣從及無數百千婆羅門、長
 <lb n="0789a27" ed="T"/>者等而共圍繞，以諸音樂而導其前，出舍
 <lb n="0789a28" ed="T"/>衛國，詣祇樹給孤獨園佛世尊所，恭敬供養
-<lb ed="T" n="0789a29"/>聽受正法。</p><p xml:id="pT14p0789a2905" cb:place="inline"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0789008" n="0789008"/><anchor xml:id="nkr_note_mod_0789008" n="0789008"/>爾時，為人民主，常以正法而行
+<lb ed="T" n="0789a29"/>聽受正法。爾時，</p><anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (no corresponding text base text and witnesses not named in rdg element) --><anchor xml:id="Radich_app_1_end"/><p xml:id="pT14p0789a2905" cb:place="inline"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0789008" n="0789008"/><anchor xml:id="nkr_note_mod_0789008" n="0789008"/>為人民主，常以正法而行
 <pb n="0789b" ed="T" xml:id="T14.0516.0789b"/>
 <lb n="0789b01" ed="T"/>治化，於諸非法捨而不行。何以故？大王當
 <lb n="0789b02" ed="T"/>知，若王及臣棄背正法行非法者，於現世中
@@ -215,7 +215,7 @@
 <lb n="0790b06" ed="T"/>妙華鬘及彼真珠纓絡、耳璫環釧，如是等物
 <lb n="0790b07" ed="T"/>而<anchor xml:id="nkr_note_orig_0790004" n="0790004"/><anchor xml:id="nkr_note_mod_0790004" n="0790004"/><anchor xml:id="beg0790004" n="0790004"/>莊嚴<anchor xml:id="end0790004"/>已，處於寶座，富貴自在威德特尊，與
 <lb n="0790b08" ed="T"/>諸眷屬而共圍繞，奏百千種殊妙音樂，妙寶
-<lb n="0790b09" ed="T"/>樓閣處處，皆爇旃檀沈水等諸<anchor type="circle"/><anchor xml:id="nkr_note_orig_0790005" n="0790005"/><anchor xml:id="nkr_note_mod_0790005" n="0790005"/>妙香，生滅
+<lb n="0790b09" ed="T"/>樓閣處處，皆爇旃檀沈水等諸<anchor type="circle"/><anchor xml:id="nkr_note_orig_0790005" n="0790005"/><anchor xml:id="nkr_note_mod_0790005" n="0790005"/>妙香，<anchor xml:id="Radich_app_2_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_2, lem element is empty (no corresponding text base text and witnesses not named in rdg element) --><anchor xml:id="Radich_app_2_end"/>生滅
 <lb n="0790b10" ed="T"/>相續輪轉無有窮盡，皆是無明為因生故。由
 <lb n="0790b11" ed="T"/>此即有貪等諸法，若滅無明貪等不生，貪等
 <lb ed="T" n="0790b12"/>既滅正行得起，離諸過失，此即名為出世間
@@ -243,7 +243,13 @@
 <lb ed="T" n="0790c04"/>頂禮佛足迴復王宮。</p><p xml:id="pT14p0790c0409" cb:place="inline">佛說此經已，諸大苾芻
 <lb ed="T" n="0790c05"/>眾聞佛所說，皆大歡喜信受奉行。</p></cb:div>
 <lb ed="T" n="0790c06"/><cb:juan fun="close" n="001"><cb:jhead>佛說勝軍王所問經</cb:jhead></cb:juan>
-<lb ed="T" n="0790c07"/><cb:div type="w"><p xml:id="pT14p0790c0701"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0790007" n="0790007"/>大王既出城已漸向祇園，其王即時遠見
+<!-- original content here now handled by the rdg element in Radich_app_1  <lb ed="T" n="0790c07"/><cb:div type="w"> --><!-- original content here now handled by the rdg element in Radich_app_2 </cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit5 #wit4"><p xml:id="pT14p0790c0701"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0790007" n="0790007"/>大王既出城已漸向祇園，其王即時遠見
 <lb n="0790c08" ed="T"/>世尊於一樹下安詳而坐，諸苾芻眾而共
 <lb ed="T" n="0790c09"/>圍遶。</p><p xml:id="pT14p0790c0903" cb:place="inline">時王見已生大歡喜，深信尊重下車
 <lb ed="T" n="0790c10"/>去蓋，合掌曲躬遙伸讚歎：「佛身廣大猶若
@@ -263,7 +269,8 @@
 <lb ed="T" n="0790c24"/>於佛正法愛樂趣求，純善相應是大賢者。
 <lb n="0790c25" ed="T"/>如汝所言樂聞法要，汝當諦聽如善作意，
 <lb n="0790c26" ed="T"/>記念修習為汝宣說。」</p><p xml:id="pT14p0790c2609" cb:place="inline">佛言：「大王！汝<anchor xml:id="nkr_note_orig_0790008" n="0790008"/><anchor xml:id="nkr_note_mod_0790008" n="0790008"/><anchor xml:id="beg0790008" n="0790008"/>統<anchor xml:id="end0790008"/>大
-<lb ed="T" n="0790c27"/>國，
+<lb ed="T" n="0790c27"/>國，</p></rdg></app>
+<app from="#Radich_app_2_start" to="#Radich_app_2_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit4 #wit5"><p>
 <lb n="0790c28" ed="T"/><anchor type="circle"/><anchor xml:id="nkr_note_orig_0790009" n="0790009"/>常有百千內外親族恭敬讚歎，雖復如是
 <lb n="0790c29" ed="T"/>富貴自在，壽報盡時即生苦惱，一切眷屬
 <pb ed="T" n="0791a" xml:id="T14.0516.0791a"/>
@@ -284,12 +291,7 @@
 <lb n="0791a15" ed="T"/>滅，識滅即名色滅，名色滅即六處滅，六處滅
 <lb n="0791a16" ed="T"/>即觸滅，觸滅即受滅，受滅即愛滅，愛滅即取
 <lb ed="T" n="0791a17"/>滅，取滅即有滅，有滅即生滅，生滅即老、死、憂、
-<lb ed="T" n="0791a18"/>悲、苦、惱滅，如是即一大苦蘊滅。是故……。」</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
+<lb ed="T" n="0791a18"/>悲、苦、惱滅，如是即一大苦蘊滅。是故……。」</p></rdg></app>
 <app from="#beg0789004" to="#end0789004"><lem wit="#wit.orig">西</lem><rdg wit="#wit1" resp="#resp2">宋西</rdg></app>
 <app from="#beg0789005" to="#end0789005"><lem wit="#wit.orig">譯經</lem><rdg wit="#wit1" resp="#resp2"><space quantity="0"/></rdg></app>
 <app from="#beg0789006" to="#end0789006"><lem wit="#wit.orig">臣</lem><rdg wit="#wit1" resp="#resp2"><space quantity="0"/></rdg></app>

@@ -56,6 +56,8 @@
 					<listWit>
 						<witness xml:id="wit.cbeta">【CB】</witness>
 						<witness xml:id="wit.orig">【大】</witness>
+						<witness xml:id="wit1">【明】</witness>
+						<!-- The original CBETA XML stats that the only witness is 大. However, T19:404a n. 1 states 【原】明本, i.e. that T in this case was based upon M. I have therefore added an additional "witness" line to show that M is also a witness for this text; in fact, the ONLY premodern witness attested by the T apparatus. Michael Radich, 31.12.2022 -->
 					</listWit>
 				</tagUsage>
 			</namespace>
@@ -500,9 +502,16 @@
 <lb n="0406c29" ed="T"/>讚揚。</p></cb:div>
 <pb n="0407a" ed="T" xml:id="T19.0977.0407a"/>
 <lb n="0407a01" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說大白傘蓋總持陀羅尼經</cb:jhead></cb:juan>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (in this unusual case, there is only one premodern witness to the text, M, and therefore, the endmatter is carried by all three "witnesses", viz. M > T > CB) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0407a02" ed="T"/>
 <lb n="0407a03" ed="T"/>
-<lb n="0407a04" ed="T"/><cb:div type="w"><head>大白傘蓋佛母總讚歎禱祝偈</head>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0407a04" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element applies (redundantly) to all three "witnesses", i.e. M > T > CB --></lem><rdg wit="#wit1 #wit.cbeta #wit.orig"><head>大白傘蓋佛母總讚歎禱祝偈</head>
 <lb n="0407a05" ed="T"/>
 <lb n="0407a06" ed="T"/><lg xml:id="lgT19p0407a0601" type="regular"><l>唵蓮華月輪妙座上，<caesura/>金剛跏趺身色白，</l>
 <lb n="0407a07" ed="T"/><l>左手當胸執白蓋，<caesura/>具白傘處稱讚禮，</l>
@@ -538,13 +547,8 @@
 <lb n="0407b07" ed="T"/><l>惡趣苦果怖畏中，<caesura/>愚資我今求覆護。</l>
 <lb n="0407b08" ed="T"/><l>以大慈悲之鐵鉤，<caesura/>猶如愛子乞護持，</l>
 <lb n="0407b09" ed="T"/><l>一切時中擁護我。</l></lg>
-<lb n="0407b10" ed="T"/><p xml:id="pT19p0407b1001">大白傘蓋總持讚歎禱祝偈竟</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
-<app from="#beg0404c0801" to="#end0404c0801"><lem resp="#resp3" wit="#wit.cbeta">亦</lem><rdg wit="#wit.orig">赤</rdg></app>
+<lb n="0407b10" ed="T"/><p xml:id="pT19p0407b1001">大白傘蓋總持讚歎禱祝偈竟</p></rdg></app>
+<app from="#beg0404c0801" to="#end0404c0801"><lem wit="#wit.cbeta" resp="#resp3">亦</lem><rdg wit="#wit.orig">赤</rdg></app>
 </p>
 </cb:div>
 <cb:div type="taisho-notes">

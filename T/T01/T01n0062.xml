@@ -234,8 +234,15 @@
 <lb n="0860c08" ed="T"/><l>聖眾和同快，<caesura/>和常得安樂。」</l></lg>
 <lb n="0860c09" ed="T"/><p xml:id="pT01p0860c0901">佛說如是。諸比丘眾，諸天、龍、鬼神、阿須倫，世
 <lb n="0860c10" ed="T"/>間人民，聞佛所說，莫不歡喜，作禮而去。</p></cb:div>
-<lb n="0860c11" ed="T"/><cb:div type="w"><lg type="regular" xml:id="lgT01p0860c1101" style="margin-left:0em;text-indent:0em"><l>「<anchor xml:id="nkr_note_orig_0860010" n="0860010"/><anchor xml:id="nkr_note_mod_0860010" n="0860010"/>最尊行為在舍衛，<caesura/>為眾弟子說如是，</l>
-<lb n="0860c12" ed="T"/><l style="text-indent:1em">一切為在祇樹會，<caesura/>今鉢和蘭造為常。</l>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0860c11" ed="T"/><cb:div type="w"></cb:div> -->
+<lb n="0861b06" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說新歲經</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit.orig #wit.cbeta"><lb n="0860c12" ed="T"/><lg><l style="text-indent:1em">一切為在祇樹會，<caesura/>今鉢和蘭造為常。</l>
 <lb n="0860c13" ed="T"/><l style="text-indent:1em">舍利弗叉手白佛，<caesura/>願聞等見鉢和蘭，</l>
 <lb n="0860c14" ed="T"/><l style="text-indent:1em">三界有名誠說時，<caesura/>比丘自淨法云何？」</l>
 <lb n="0860c15" ed="T"/><l style="text-indent:0em">「舍利弗羅我布草，<caesura/>為於樹下降魔力，</l>
@@ -288,13 +295,7 @@
 <lb n="0861b02" ed="T"/><l>持戒斷諸惡，<caesura/>眾叉手受法，</l>
 <lb n="0861b03" ed="T"/><l>為一切所向，<caesura/>眾魔皆為伏。</l>
 <lb n="0861b04" ed="T"/><l>諸天常善人，<caesura/>稱譽戒具足，</l>
-<lb n="0861b05" ed="T"/><l>不復覩眾魔，<caesura/>今為鉢和蘭。」</l></lg></cb:div>
-<lb n="0861b06" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛說新歲經</cb:jhead></cb:juan>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
+<lb n="0861b05" ed="T"/><l>不復覩眾魔，<caesura/>今為鉢和蘭。」</l></lg></rdg></app>
 <app from="#beg0859001" to="#end0859001"><lem wit="#wit.orig">天竺三藏</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3">沙門竺</rdg></app>
 <app from="#beg0859002" to="#end0859002"><lem wit="#wit.orig">已</lem><rdg resp="#resp2" wit="#wit1 #wit2">以</rdg></app>
 <app from="#beg0859003" to="#end0859003"><lem wit="#wit.orig">各</lem><rdg resp="#resp2" wit="#wit1 #wit2 #wit3"><space quantity="0"/></rdg></app>

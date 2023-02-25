@@ -225,7 +225,14 @@
 <lb n="0870b25" ed="T"/><anchor xml:id="nkr_note_orig_0870018" n="0870018"/><anchor xml:id="nkr_note_mod_0870018" n="0870018"/><anchor xml:id="beg0870018" n="0870018"/>者<anchor xml:id="end0870018"/>震國，詣佛敬信，輒說：「生死為苦，三界無安。」
 <lb n="0870b26" ed="T"/>以釋來者，莫不歡喜，稽首而去。</p>
 <lb n="0870b27" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>佛母般泥洹<anchor xml:id="nkr_note_orig_0870019" n="0870019"/><anchor xml:id="nkr_note_mod_0870019" n="0870019"/><anchor xml:id="beg0870019" n="0870019"/>經<anchor xml:id="end0870019"/></cb:jhead></cb:juan></cb:div>
-<lb n="0870b28" ed="T"/><cb:div type="w"><head><anchor xml:id="nkr_note_orig_0870020" n="0870020"/>佛般泥洹後變記</head>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0870b28" ed="T"/><cb:div type="w"></cb:div> -->
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3"><head><anchor xml:id="nkr_note_orig_0870020" n="0870020"/>佛般泥洹後變記</head>
 <lb n="0870b29" ed="T"/><p xml:id="pT02p0870b2901">我般泥洹後百歲，我諸弟子沙門，聰明智
 <pb n="0870c" ed="T" xml:id="T02.0145.0870c"/>
 <lb n="0870c01" ed="T"/>慧如我無異。我般泥洹後二百歲時，阿育
@@ -241,12 +248,7 @@
 <lb n="0870c11" ed="T"/>九百歲時，便念行治生求利害處所。千歲
 <lb n="0870c12" ed="T"/>時，便行與國王相隨教習兵法戰陣，自行
 <lb n="0870c13" ed="T"/>屠殺妻娶婦女。</p>
-<lb n="0870c14" ed="T"/><p xml:id="pT02p0870c1401">佛般泥洹後變記</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
+<lb n="0870c14" ed="T"/><p xml:id="pT02p0870c1401">佛般泥洹後變記</p></rdg></app>
 <app from="#beg0869011" to="#end0869011"><lem wit="#wit.orig">宋</lem><rdg resp="#resp2" wit="#wit1 #wit2">劉宋</rdg></app>
 <app from="#beg0869012" to="#end0869012"><lem wit="#wit.orig">慧</lem><rdg resp="#resp2" wit="#wit3 #wit1 #wit2">釋慧</rdg></app>
 <app from="#beg0869013" to="#end0869013"><lem wit="#wit.orig">離</lem><rdg resp="#resp2" wit="#wit3 #wit1 #wit2">梨</rdg></app>

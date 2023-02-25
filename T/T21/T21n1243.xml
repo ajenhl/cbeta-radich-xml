@@ -745,18 +745,20 @@
 <lb n="0213b25" ed="T"/>說，歡喜而退。</p>
 <lb n="0213b26" ed="T"/><cb:juan n="002" fun="close"><cb:jhead>佛說出生一切如來法眼遍照大力明王經卷
 <lb n="0213b27" ed="T"/>下</cb:jhead></cb:juan></cb:div>
-<lb n="0213b28" ed="T"/><cb:div type="w"><head>大力明王心真言</head>
-<lb n="0213b29" ed="T"/><p xml:id="pT21p0213b2901">怛　儞也<note place="inline">二合</note>他<note place="inline">引</note>　唵　<note place="inline">引</note>嚩日囉<note place="inline">二合</note><g ref="#CB04325">󱃥</g>嚕<note place="inline">二合</note>
-<pb n="0213c" ed="T" xml:id="T21.1243.0213c"/>
-<lb n="0213c01" ed="T"/>馱摩賀<note place="inline">引</note>麼攞賀曩那賀鉢左末他<anchor xml:id="nkr_note_orig_0213003" n="0213003"/><anchor xml:id="nkr_note_mod_0213003" n="0213003"/><anchor xml:id="beg0213003" n="0213003"/>尾<anchor xml:id="end0213003"/>枳囉
-<lb n="0213c02" ed="T"/>尾特嚩<note place="inline">二合</note>娑野惹徵攞耄<note place="inline">引</note>那羅塢麁澁麼<note place="inline">二
-<lb n="0213c03" ed="T"/>合</note><g ref="#CB04325">󱃥</g>嚕<note place="inline">二合</note>馱吽<note place="inline">引</note><g ref="#CB00760">𠷑</g>吒遏阿<note place="inline">引去</note>鴦<note place="inline">鳥剛反</note>惡<note place="inline">入</note>
-<lb n="0213c04" ed="T"/><g ref="#CB00805">𤚥</g><note place="inline">引</note>醯<note place="inline">引</note>　娑嚩<note place="inline">二合</note>賀<anchor xml:id="nkr_note_orig_0213004" n="0213004"/><anchor xml:id="nkr_note_mod_0213004" n="0213004"/><anchor xml:id="beg0213004" n="0213004"/><note place="inline">引</note><anchor xml:id="end0213004"/></p></cb:div>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<!-- original content here now handled by the rdg element in Radich_app_1 <lb n="0213b28" ed="T"/><cb:div type="w"></cb:div> -->
 </body>
 <back>
 <cb:div type="apparatus">
 <head>校注</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit3 #wit.orig"><lb n="0213b28" ed="T"/><head>大力明王心真言</head>
+<lb n="0213b29" ed="T"/><p xml:id="pT21p0213b2901">怛　儞也<note place="inline">二合</note>他<note place="inline">引</note>　唵　<note place="inline">引</note>嚩日囉<note place="inline">二合</note><g ref="#CB04325">󱃥</g>嚕<note place="inline">二合</note>
+<pb n="0213c" ed="T" xml:id="T21.1243.0213c"/>
+<lb n="0213c01" ed="T"/>馱摩賀<note place="inline">引</note>麼攞賀曩那賀鉢左末他<anchor xml:id="nkr_note_orig_0213003" n="0213003"/><anchor xml:id="nkr_note_mod_0213003" n="0213003"/><anchor xml:id="beg0213003" n="0213003"/>尾<anchor xml:id="end0213003"/>枳囉
+<lb n="0213c02" ed="T"/>尾特嚩<note place="inline">二合</note>娑野惹徵攞耄<note place="inline">引</note>那羅塢麁澁麼<note place="inline">二
+<lb n="0213c03" ed="T"/>合</note><g ref="#CB04325">󱃥</g>嚕<note place="inline">二合</note>馱吽<note place="inline">引</note><g ref="#CB00760">𠷑</g>吒遏阿<note place="inline">引去</note>鴦<note place="inline">鳥剛反</note>惡<note place="inline">入</note>
+<lb n="0213c04" ed="T"/><g ref="#CB00805">𤚥</g><note place="inline">引</note>醯<note place="inline">引</note>　娑嚩<note place="inline">二合</note>賀<anchor xml:id="nkr_note_orig_0213004" n="0213004"/><anchor xml:id="nkr_note_mod_0213004" n="0213004"/><anchor xml:id="beg0213004" n="0213004"/><note place="inline">引</note><anchor xml:id="end0213004"/></p></rdg></app>
 <app from="#beg0207006" to="#end0207006"><lem wit="#wit.orig">佛說</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
 <app from="#beg0207007" to="#end0207007"><lem wit="#wit.orig">西</lem><rdg resp="#resp2" wit="#wit1">宋西</rdg></app>
 <app from="#beg0207008" to="#end0207008"><lem wit="#wit.orig">那爛陀寺</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>

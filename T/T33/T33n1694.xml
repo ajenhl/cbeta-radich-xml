@@ -1573,7 +1573,14 @@
 <lb n="0024b27" ed="T"/>惑，故曰明解也。</p></cb:div>
 <lb n="0024b28" ed="T"/><cb:juan n="002" fun="close"><cb:jhead>陰持入經卷下</cb:jhead></cb:juan>
 <pb n="0024c" ed="T" xml:id="T33.1694.0024c"/>
-<lb n="0024c01" ed="T"/><cb:div type="w"><head><anchor xml:id="nkr_note_orig_0024026" n="0024026"/>佛說慧印百六十三定解</head>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (in this rare case, the additional text in question is found only in the T and CBETA witnesses, and missing from all additional witnesses) --><anchor xml:id="Radich_app_1_end"/>
+<lb n="0024c01" ed="T"/><cb:div type="w"></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.cbeta #wit.orig"><head><anchor xml:id="nkr_note_orig_0024026" n="0024026"/>佛說慧印百六十三定解</head>
 <lb n="0024c02" ed="T"/><p xml:id="pT33p0024c0201">當知，舍利弗！如來之身，為無身、無作、無起、無滅、
 <lb n="0024c03" ed="T"/>無從有、未曾造、無合、無遊、無至、無知、無習、都清
 <lb n="0024c04" ed="T"/>淨、無畜、無憎、無行、無止、無生、無報、無見、無間、無
@@ -1597,12 +1604,7 @@
 <lb n="0024c22" ed="T"/>不趺無有居處、非終非始、非念非憂、非事非諍、
 <lb n="0024c23" ed="T"/>非惡相、非滅度、非滅訖、非所造、非不遊。</p>
 <lb n="0024c24" ed="T"/><p xml:id="pT33p0024c2401" style="margin-left:1em">此後一紙，准品次錄無。雖非陰持入，應是別
-<lb n="0024c25" ed="T"/>經。愛者節出，寄之卷末。既已彫成，不忍毀壞。</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
+<lb n="0024c25" ed="T"/>經。愛者節出，寄之卷末。既已彫成，不忍毀壞。</p></rdg></app>
 <app from="#beg0009002" to="#end0009002"><lem wit="#wit.orig">陳氏</lem><rdg resp="#resp2" wit="#wit1">陳氏製并</rdg></app>
 <app from="#beg0009b1201" to="#end0009b1201"><lem resp="#resp3" wit="#wit.cbeta">惕<note type="cf1">T03n0189_p0626c12</note></lem><rdg wit="#wit.orig">愓</rdg></app>
 <app from="#beg0009003" to="#end0009003"><lem wit="#wit.orig">乎</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>

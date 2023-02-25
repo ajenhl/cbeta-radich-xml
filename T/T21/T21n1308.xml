@@ -1202,9 +1202,22 @@
 <lb n="0452a26" ed="T"/>祿存星<note place="inline">戌寅水星</note>、巨門星<note place="inline">丑亥火星</note>、貪狼星<note place="inline">子月天</note>。</p>
 <lb n="0452a27" ed="T"/><p xml:id="pT21p0452a2701">正<note place="inline">朔室望翼</note>、二<note place="inline">奎角</note>、三<note place="inline"><anchor xml:id="nkr_note_orig_0452003" n="0452003"/><anchor xml:id="nkr_note_mod_0452003" n="0452003"/><anchor xml:id="beg0452003" n="0452003"/>風<anchor xml:id="end0452003"/>氐</note>、四<note place="inline">畢心</note>、五<note place="inline">參<anchor xml:id="nkr_note_orig_0452004" n="0452004"/><anchor xml:id="nkr_note_mod_0452004" n="0452004"/><anchor xml:id="beg0452004" n="0452004"/>女<anchor xml:id="end0452004"/></note>、六<note place="inline">鬼女</note>、七<note place="inline">張
 <lb n="0452a28" ed="T"/>室</note>、八<note place="inline">角婁</note>、九<note place="inline">氐昴</note>、十<note place="inline">心嘴</note>、十一<note place="inline">斗鬼</note>、十二<note place="inline">虛星</note>。</p></cb:div>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0452a29" ed="T"/><cb:div type="w"><p xml:id="pT21p0452a2901">長保元年三月五日</p>
 <pb n="0452b" ed="T" xml:id="T21.1308.0452b"/>
-<lb n="0452b01" ed="T"/><p xml:id="pT21p0452b0101">統云春分<note place="inline">二月中</note>奎三度<note place="inline">二</note>　，月定白羊宮<note place="inline">乃</note>內，
+<!-- original content here now handled by the rdg element in Radich_app_1 -->
+<lb n="0452b16" ed="T"/><p xml:id="pT21p0452b1601">時亨和歲次壬戌仲夏月</p>
+<lb n="0452b17" ed="T"/><p xml:id="pT21p0452b1701">　　　　　　　豐山長谷沙門快道誌</p>
+<lb n="0452b18" ed="T"/><p xml:id="pT21p0452b1801">一校加筆訖</p>
+<lb n="0452b19" ed="T"/><p xml:id="pT21p0452b1901">享和三年歲次癸亥夏五月三日　慈順</p>
+<lb n="0452b20" ed="T"/><p xml:id="pT21p0452b2001">文政三年歲次庚辰季秋朔日，以秀陽闍
+<lb n="0452b21" ed="T"/>梨令密榮校寫本校寫之了。　　龍肝</p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.orig #wit1 #wit.cbeta"><lb n="0452b01" ed="T"/><p xml:id="pT21p0452b0101">統云春分<note place="inline">二月中</note>奎三度<note place="inline">二</note>　，月定白羊宮<note place="inline">乃</note>內，
 <lb n="0452b02" ed="T"/>而有差三度<note place="inline">二</note>　有餘，早分仍圖新可造<note place="inline">云云</note>。
 <lb n="0452b03" ed="T"/>圖者，十二宮、七分、二十八宿分度也。作圖，
 <lb n="0452b04" ed="T"/>白羊宮為初<note place="inline">云云</note>。</p>
@@ -1218,18 +1231,7 @@
 <lb n="0452b12" ed="T"/>撿挍名山諸剎之本，文字寫誤不少，而不
 <lb n="0452b13" ed="T"/>可讀者多矣。更請求洛西仁和寺之藏本
 <lb n="0452b14" ed="T"/>對考，非全無猶豫，粗標其異同於冠首，以
-<lb n="0452b15" ed="T"/>授工壽梓。希尋善本點雌雄，令禳災無差。</p>
-<lb n="0452b16" ed="T"/><p xml:id="pT21p0452b1601">時亨和歲次壬戌仲夏月</p>
-<lb n="0452b17" ed="T"/><p xml:id="pT21p0452b1701">　　　　　　　豐山長谷沙門快道誌</p>
-<lb n="0452b18" ed="T"/><p xml:id="pT21p0452b1801">一校加筆訖</p>
-<lb n="0452b19" ed="T"/><p xml:id="pT21p0452b1901">享和三年歲次癸亥夏五月三日　慈順</p>
-<lb n="0452b20" ed="T"/><p xml:id="pT21p0452b2001">文政三年歲次庚辰季秋朔日，以秀陽闍
-<lb n="0452b21" ed="T"/>梨令密榮校寫本校寫之了。　　龍肝</p></cb:div>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
+<lb n="0452b15" ed="T"/>授工壽梓。希尋善本點雌雄，令禳災無差。</p></rdg></app>
 <app from="#beg0427001" to="#end0427001"><lem wit="#wit.orig">狂</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">枉</rdg></app>
 <app from="#beg0427002" to="#end0427002"><lem wit="#wit.orig">九</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">八</rdg></app>
 <app from="#beg0427003" to="#end0427003"><lem wit="#wit.orig">半</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>

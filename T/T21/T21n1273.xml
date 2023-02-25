@@ -710,11 +710,10 @@
 <lb n="0323a08" ed="T"/>罪，是故不撰<anchor xml:id="nkr_note_orig_0323006" n="0323006"/><anchor xml:id="nkr_note_mod_0323006" n="0323006"/><anchor xml:id="beg0323006" n="0323006"/>器人<anchor xml:id="end0323006"/>者即有障難，所以今更加
 <lb n="0323a09" ed="T"/>制言也。智者修之，速得悉地。</p>
 <lb n="0323a10" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>誐那鉢底瑜迦祕要一<anchor xml:id="nkr_note_orig_0323007" n="0323007"/><anchor xml:id="nkr_note_mod_0323007" n="0323007"/><anchor xml:id="beg0323007" n="0323007"/>帖<anchor xml:id="end0323007"/><anchor xml:id="nkr_note_orig_0323008" n="0323008"/></cb:jhead></cb:juan></cb:div>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0323a11" ed="T"/><cb:div type="w"><p xml:id="pT21p0323a1101"><anchor xml:id="nkr_note_orig_0323009" n="0323009"/><anchor xml:id="nkr_note_mod_0323009" n="0323009"/>一渧酒成萬斛呪</p>
 <lb n="0323a12" ed="T"/><p xml:lang="sa-Sidd" cb:type="dharani" xml:id="pT21p0323a1201"><g ref="#SD-E074">􈁴</g><g ref="#SD-A67A">􄙺</g><g ref="#SD-A5ED">􄗭</g><g ref="#SD-A57B">􄕻</g><g ref="#SD-A5F7">􄗷</g><g ref="#SD-CFC1">􆿁</g><g ref="#SD-B065">􅁥</g><g ref="#SD-A6A9">􄚩</g></p>
-<lb n="0323a13" ed="T"/><p xml:id="pT21p0323a1301">大自在天呪曰——聖天儀軌文</p>
-<lb n="0323a14" ed="T"/><p xml:id="pT21p0323a1401">唵毘跢羅薩尼婆羅末利達尼瞋達尼瞋達尼
-<lb n="0323a15" ed="T"/>頻達尼頻達尼娑婆訶</p>
+<!-- original content here now handled by the rdg element in Radich_app_1 -->
 <lb n="0323a16" ed="T"/><p xml:id="pT21p0323a1601">寬文十一年六月十五日晝寫挍合了</p>
 <lb n="0323a17" ed="T"/><p xml:id="pT21p0323a1701">　　　　　　　　　　　　　淨　嚴</p>
 <lb n="0323a18" ed="T"/><p xml:id="pT21p0323a1801">天明元辛丑年閏五月二十六日以澄辨阿
@@ -727,6 +726,9 @@
 <cb:div type="apparatus">
 <head>校注</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit.orig"><lb n="0323a13" ed="T"/><p xml:id="pT21p0323a1301">大自在天呪曰——聖天儀軌文</p>
+<lb n="0323a14" ed="T"/><p xml:id="pT21p0323a1401">唵毘跢羅薩尼婆羅末利達尼瞋達尼瞋達尼
+<lb n="0323a15" ed="T"/>頻達尼頻達尼娑婆訶</p></rdg></app>
 <app from="#beg0321003" to="#end0321003"><lem wit="#wit.orig">含光記</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
 <app from="#beg0321005" to="#end0321005"><lem wit="#wit.orig">怛</lem><rdg resp="#resp2" wit="#wit1">但</rdg></app>
 <app from="#beg0321008" to="#end0321008"><lem wit="#wit.orig">引</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>

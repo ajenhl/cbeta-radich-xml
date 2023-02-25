@@ -1258,12 +1258,9 @@
 <lb n="0227b21" ed="T"/>食。每月取一十五日二十一日，音聲用單雙
 <lb n="0227b22" ed="T"/>絃方響鼓舞，蘇蜜乳粥，真心誦念，其天王即
 <lb n="0227b23" ed="T"/>見其身，隨心所願。</p></cb:div>
-<lb n="0227b24" ed="T"/><cb:div type="w"><p xml:id="pT21p0227b2401">解穢陀羅尼。</p><p cb:type="dharani" xml:id="pT21p0227b2406" cb:place="inline">唵俱嚕馱唵<g ref="#CB03928">󰽘</g></p><p xml:id="pT21p0227b2412" cb:place="inline">讚天王頌曰：</p>
-<lb n="0227b25" ed="T"/><p xml:id="pT21p0227b2501">善利萬物兮惟彼水方，護持國界兮惟我
-<lb n="0227b26" ed="T"/>天王，良將受委兮鎮固封彊，精心奉職
-<lb n="0227b27" ed="T"/>兮宣託福祥。星宮上勝兮迴架崇岡，靈
-<lb n="0227b28" ed="T"/>像儼立兮眾寶嚴莊，威神震曜兮攝伏荒
-<lb n="0227b29" ed="T"/>保，又忠貞□兮<anchor xml:id="nkr_note_orig_0227029" n="0227029"/><anchor xml:id="nkr_note_mod_0227029" n="0227029"/><anchor xml:id="beg0227029" n="0227029"/>翅<anchor xml:id="end0227029"/>贊聖<anchor xml:id="nkr_note_orig_0227030" n="0227030"/>唐。</p>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
+<lb n="0227b24" ed="T"/><cb:div type="w">
+<!-- original content here now handled by the rdg element in Radich_app_1 -->
 <pb n="0227c" ed="T" xml:id="T21.1248.0227c"/>
 <lb n="0227c01" ed="T"/><p xml:id="pT21p0227c0101">《<anchor xml:id="nkr_note_orig_0227031" n="0227031"/><anchor xml:id="nkr_note_mod_0227031" n="0227031"/>圓行錄》云：北方毘沙門天王隨軍護法真
 <lb n="0227c02" ed="T"/>言一卷，不空三藏別行翻譯。《八家錄》亦爾
@@ -1285,6 +1282,12 @@
 <cb:div type="apparatus">
 <head>校注</head>
 <p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit1 #wit2 #wit.orig"><p xml:id="pT21p0227b2401">解穢陀羅尼。</p><p cb:type="dharani" xml:id="pT21p0227b2406" cb:place="inline">唵俱嚕馱唵<g ref="#CB03928">󰽘</g></p><p xml:id="pT21p0227b2412" cb:place="inline">讚天王頌曰：</p>
+<lb n="0227b25" ed="T"/><p xml:id="pT21p0227b2501">善利萬物兮惟彼水方，護持國界兮惟我
+<lb n="0227b26" ed="T"/>天王，良將受委兮鎮固封彊，精心奉職
+<lb n="0227b27" ed="T"/>兮宣託福祥。星宮上勝兮迴架崇岡，靈
+<lb n="0227b28" ed="T"/>像儼立兮眾寶嚴莊，威神震曜兮攝伏荒
+<lb n="0227b29" ed="T"/>保，又忠貞□兮<anchor xml:id="nkr_note_orig_0227029" n="0227029"/><anchor xml:id="nkr_note_mod_0227029" n="0227029"/><anchor xml:id="beg0227029" n="0227029"/>翅<anchor xml:id="end0227029"/>贊聖<anchor xml:id="nkr_note_orig_0227030" n="0227030"/>唐。</p></rdg></app>
 <app from="#beg0225004" to="#end0225004"><lem resp="#resp2" wit="#wit.orig">多</lem><rdg resp="#resp2" wit="#wit1" type="correctionRemark"><space quantity="0"/></rdg></app>
 <app from="#beg0225005" to="#end0225005"><lem wit="#wit.orig">呼</lem><rdg resp="#resp2" wit="#wit2">乎</rdg></app>
 <app from="#beg0225006" to="#end0225006"><lem wit="#wit.orig">保</lem><rdg resp="#resp2" wit="#wit2">俁</rdg></app>

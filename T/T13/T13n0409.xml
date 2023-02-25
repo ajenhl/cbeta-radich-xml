@@ -198,6 +198,7 @@
 <lb n="0678a01" ed="T"/>為一人持毘尼者，為未來世無眼<anchor xml:id="nkr_note_orig_0678001" n="0678001"/><anchor xml:id="nkr_note_mod_0678001" n="0678001"/><anchor xml:id="beg0678001" n="0678001"/>目<anchor xml:id="end0678001"/>眾生，作
 <lb n="0678a02" ed="T"/>眼目故，慎莫忘失。」</p><p xml:id="pT13p0678a0208" cb:place="inline">時，優波離聞佛所說，歡喜
 <lb n="0678a03" ed="T"/>奉行。<anchor xml:id="nkr_note_orig_0678002" n="0678002"/><anchor xml:id="nkr_note_mod_0678002" n="0678002"/><anchor type="circle"/></p></cb:div>
+<anchor xml:id="Radich_app_1_start"/><!-- this anchor serves to insert the content handled by the rdg element in Radich_app_1, lem element is empty (there is simply no corresponding text in the base text and those witnesses not named in the rdg element) --><anchor xml:id="Radich_app_1_end"/>
 <lb n="0678a04" ed="T"/><cb:div type="w"><cb:mulu level="1" type="附文">附文</cb:mulu><cb:div type="other"><p xml:id="pT13p0678a0401"><anchor type="circle"/><anchor xml:id="nkr_note_orig_0678003" n="0678003"/>右觀虛空藏菩薩經，按《開元錄》，係是單
 <lb n="0678a05" ed="T"/>譯，止有二紙。經後舊尚有八紙經文，准校
 <lb n="0678a06" ed="T"/>勘大藏竹堂講師批，該是後人採集虛空
@@ -207,8 +208,15 @@
 <lb n="0678a10" ed="T"/>說治罪法，名決定毘尼。有三十五佛者，即
 <lb n="0678a11" ed="T"/>出《寶積經》第九十卷〈優波離會〉，與《決定毘
 <lb n="0678a12" ed="T"/>尼經》同本，餘文皆例此。然詳觀所批理，亦
-<lb n="0678a13" ed="T"/>可以意會，徒存似是，姑為刪之。</p></cb:div>
-<lb n="0678a14" ed="T"/><cb:div type="other"><p cb:type="dharani" xml:id="pT13p0678a1401"><anchor xml:id="nkr_note_orig_0678004" n="0678004"/><anchor xml:id="nkr_note_mod_0678004" n="0678004"/>阿彌隸奢阿彌隸奢迦留尼迦<note place="inline">一</note>　遮羅遮羅
+<lb n="0678a13" ed="T"/>可以意會，徒存似是，姑為刪之。</p></cb:div></cb:div>
+<!-- original content here now handled by the rdg element in Radich_app_1 </cb:div> -->
+<lb n="0680c06" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>觀虛空藏菩薩經</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校註</head>
+<p>
+<app from="#Radich_app_1_start" to="#Radich_app_1_end"><lem><!-- in this case, T "endmatter" handled by the rdg element has no corresponding text in the other witnesses --></lem><rdg wit="#wit.cbeta #wit.orig #wit3 #wit5"><lb n="0678a14" ed="T"/><cb:div type="other"><p cb:type="dharani" xml:id="pT13p0678a1401"><anchor xml:id="nkr_note_orig_0678004" n="0678004"/><anchor xml:id="nkr_note_mod_0678004" n="0678004"/>阿彌隸奢阿彌隸奢迦留尼迦<note place="inline">一</note>　遮羅遮羅
 <lb n="0678a15" ed="T"/>毘遮羅珊遮羅迦留尼迦<note place="inline">二</note>　羅茂羅羅茂羅毘
 <lb n="0678a16" ed="T"/>伽陀隷<note place="inline">三</note>　摩<anchor xml:id="nkr_note_add_0678a1601" n="0678a1601"/><anchor xml:id="beg0678a1601" n="0678a1601"/>懵<anchor xml:id="end0678a1601"/>呿復闍摩那迦留尼迦<note place="inline">四</note>　真陀
 <lb n="0678a17" ed="T"/>摩尼富羅栘迦留尼迦<note place="inline">五</note>　薩婆阿奢彌咃<g ref="#CB02734">𠱀</g>栘
@@ -439,13 +447,7 @@
 <lb n="0680c02" ed="T"/>中所願，無不獲得。若是女人！化成男子。能至
 <lb n="0680c03" ed="T"/>心一日一夜，六時行道，誦持之者，一劫、二劫
 <lb n="0680c04" ed="T"/>之罪，永不入惡趣。要用春秋涼時三月、四月
-<lb n="0680c05" ed="T"/>八月、九月。</p></cb:div></cb:div>
-<lb n="0680c06" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>觀虛空藏菩薩經</cb:jhead></cb:juan>
-</body>
-<back>
-<cb:div type="apparatus">
-<head>校注</head>
-<p>
+<lb n="0680c05" ed="T"/>八月、九月。</p></cb:div></rdg></app>
 <app from="#beg0677009" to="#end0677009"><lem wit="#wit.orig">宋</lem><rdg resp="#resp2" wit="#wit1 #wit2">劉宋</rdg></app>
 <app from="#beg0677010" to="#end0677010"><lem wit="#wit.orig">之</lem><rdg resp="#resp2" wit="#wit3 #wit1 #wit2 #wit4"><space quantity="0"/></rdg></app>
 <app from="#beg0677011" to="#end0677011"><lem wit="#wit.orig">先</lem><rdg resp="#resp2" wit="#wit3 #wit1 #wit2 #wit4">世尊先</rdg></app>
